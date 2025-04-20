@@ -1,24 +1,8 @@
----
-layout: default
-title: About Long Haul
----
-
 <div class="post">
-	<h1 class="pageTitle">About Long Haul</h1>
+	<h1 class="pageTitle">About</h1>
 	<img src="{{ '/assets/img/touring.jpg' | relative_url }}" alt="">
-	<p class="intro">Long Haul is a minimal, long form <a href="http://jekyllrb.com">Jekyll</a> Theme. It can be used as is or customized to your hearts desire.</p>
-	<p>Long Haul was created in honor of all the hard working touring bicycles that have traversed the globe time and time again. Take it for a spin.</p>
-	<h2>Features</h2>
-	<ul>
-		<li>Built with the <a href="https://github.com/jekyll/jekyll-sass-converter">Jekyll SASS convertor</a> plugin</li>
-  		<li>SVG Social Icons from <a href="http://customizr.net/icons/">Customizr</a></li>
-  		<li><a href="http://responsive-nav.com/">Responsive Nav Menu</a></li>
-  		<li><a href="https://github.com/snaptortoise/jekyll-rss-feeds">XML Feed for RSS Readers</a></li>
-  		<li>Contact Form via <a href="http://formspree.io/">Formspree</a></li>
-      <li>5 Post Loop with excerpt on Home Page</li>
-  		<li>Previous / Next Post Navigation</li>
-      <li>Estimated Reading Time for posts</li>
-  		<li><a href="https://github.com/adobe-webplatform/dropcap.js">Drop Cap</a> on posts</li>
-  		<li><a href="http://typecast.com/blog/a-more-modern-scale-for-web-typography">A Better Type Scale</a></li>
-  	</ul>
+	<p class="intro">Hi, I'm Kyle.  On a four-month trip around the world I thought, "I'm going to forget most of what I've done and seen...I should really write this stuff down somewhere."  But then I got lazy and didn't do it.</p>
+	<p>A few months after that, in early 2025, flying across the Atlantic on a SWISS A330 I wrote down my thoughts, what I would have liked to have known before booking that flight, what stood out and what was interesting or noteworthy.  That was kind of fun, so I kept doing it and here we are.
+	<p>This site is where I document flights, train rides, border crossings, adventures, and miscellaneous explorations that, for one reason or another, I want to remember and share with friends, family, and digital passers-by. I enjoy writing so tend to post longer-form reviews and musings.  Hopefully something here helps you decide where you'd like to go, and how you'd like to get there.</p>
+	
 </div>
