@@ -30,23 +30,18 @@
 }
 @media only screen and (min-width: 1200px) {
 	@import "breakpoints/1200up";
-}
 
-.centered-block {
-  text-align: center;
-  margin: 40px 0;
-}
-
-.centered-block img {
-  max-width: 100%;
-  height: auto;
-}
-
-.centered-block p {
+	.centered-block p {
   margin-top: 10px;
-  font-size: 0.95em;
-  color: #555;
+  font-size: 0.9em;
+  color: #666;
+  max-width: 450px;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+  font-style: italic;
 }
+
 
 
 // If IE support is needed you can add them here or create another stylesheet for specific IE fixes
