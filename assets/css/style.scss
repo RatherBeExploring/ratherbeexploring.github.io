@@ -31,7 +31,20 @@
 @media only screen and (min-width: 1200px) {
 	@import "breakpoints/1200up";
 
-	.centered-block p {
+.centered-block {
+  text-align: center;
+  margin: 40px 0;
+}
+
+.centered-block img {
+  max-width: 450px;
+  width: 100%;
+  height: auto;
+  margin: 0 auto;
+  display: block;
+}
+
+.centered-block p {
   margin-top: 10px;
   font-size: 0.9em;
   color: #666;
@@ -41,6 +54,7 @@
   text-align: center;
   font-style: italic;
 }
+
 
 
 
