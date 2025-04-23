@@ -31,9 +31,9 @@ This third and final leg, operated by Estonian carrier and knock-off Tesla found
 
 ## Where to Book
 
-* Vilnius <-> Riga: https://ltglink.lt/en up to 30 days in advance
-* Riga <-> Valga: https://vivi.lv/en/ up to 10 days in advance, or on board
-* Valga <-> Tallinn: https://elron.ee/en up to 14 days in advance, or on board (advance booking required for first class)
+* Vilnius <-> Riga: <a href="https://ltglink.lt/en" target="_blank">https://ltglink.lt/en</a> up to 30 days in advance
+* Riga <-> Valga: <a href="https://vivi.lv/en/" target="_blank">https://vivi.lv/en/</a> up to 10 days in advance, or on board
+* Valga <-> Tallinn: <a href="https://elron.ee/en" target="_blank">https://elron.ee/en</a> up to 14 days in advance, or on board (advance booking required for first class)
 
 ## Breaking up the Journey
 
