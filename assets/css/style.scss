@@ -32,4 +32,21 @@
 	@import "breakpoints/1200up";
 }
 
+.centered-block {
+  text-align: center;
+  margin: 40px 0;
+}
+
+.centered-block img {
+  max-width: 100%;
+  height: auto;
+}
+
+.centered-block p {
+  margin-top: 10px;
+  font-size: 0.95em;
+  color: #555;
+}
+
+
 // If IE support is needed you can add them here or create another stylesheet for specific IE fixes
