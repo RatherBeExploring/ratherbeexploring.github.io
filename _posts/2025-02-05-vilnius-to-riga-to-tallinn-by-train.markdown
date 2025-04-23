@@ -88,6 +88,7 @@ In the latter third of the journey passengers were treated to a little bit of Ba
 <div class="centered-block">
   <img src="/assets/img/baltics7.JPG" alt="Seats on the Riga to Valga train.">
   <p>Basic but comfortable seats on the Riga-Valga service.</p>
+</div>
 We arrived in Valga right on schedule at 13:51 after a journey of two hours, 35 minutes.
 
 Total journey time so far: six hours, 37 minutes.  Fare €31.
