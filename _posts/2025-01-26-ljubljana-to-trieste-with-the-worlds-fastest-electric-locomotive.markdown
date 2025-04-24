@@ -30,7 +30,7 @@ There were three Austrian second-class carriages making the journey, all second 
   <img src="/assets/img/trieste3-min.JPG" alt="Second class seats in an empty carriage.">
   <p>A second class coach all to myself.</p>
 </div>
-Power sockets and reading lights are equipped at each seat, and washrooms are located at either end of each carriage.  Tickets were checked only once shortly after leaving Ljubljana.  There were two police checks along the way: once, briefly, at Divača in Slovenia, where officers walked through the train without saying a word, and then again in Italy at Villa Opicina, where both Slovenian and Italian police walked down the length of the train.  Unlike <a href="https://ratherbeexploring.github.io/blog/zagreb-to-ljubljana-by-train/">crossing from Croatia to Slovenia by train,</a> I was not asked to show my passport.
+Power sockets and reading lights are equipped at each seat, and washrooms are located at either end of each carriage.  Tickets were checked only once shortly after leaving Ljubljana.  There were two police checks along the way: once, briefly, at Divača in Slovenia, where officers walked through the train without saying a word, and then again in Italy at Villa Opicina, where both Slovenian and Italian police walked down the length of the train.  Unlike <a href="https://ratherbeexploring.github.io/blog/zagreb-to-ljubljana-by-train/" target="_blank">crossing from Croatia to Slovenia by train,</a> I was not asked to show my passport.
 <div class="centered-block">
   <img src="/assets/img/trieste4-min.JPG" alt="Train waiting at an empty platform.">
   <p>Our train waiting at Villa Opicina, across the border into Italy.</p>
