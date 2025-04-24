@@ -108,7 +108,7 @@ After walking around for a few minutes I climbed on board.  Tickets can be purch
   <img src="/assets/img/baltics10.JPG" alt="Payment machine inside the Valga to Tallinn train.">
   <p>No advance purchase necessary: select your destination then tap your card on these payment machines, located next to the doors.  The machines can be set to English and international cards are accepted.</p>
 </div>
-First class tickets cost €4 more, and come with faster WiFi, assigned seats, and slightly more space with seats being arrange 2-2 instead of 2-3 as in second class.  If travelling with a bicycle it is mandatory to purchase a separate ticket (€8.27) in the summer season, free in winter.  Only four bicycle tickets are available and can sell out.
+First class tickets cost €4 more, and come with faster WiFi, assigned seats, and slightly more space with seats being arranged 2-2 instead of 2-3 as in second class.  If travelling with a bicycle it is mandatory to purchase a separate ticket (€8.27) in the summer season, free in winter.  Only four bicycle tickets are available and can sell out.
 
 I opted to stop in Tartu, paying €5.80 for the 57-minute trip, making just one stop along the way.
 
