@@ -1,5 +1,5 @@
 title: Rather Be Exploring
-description: Long Form Jekyll theme built with SASS
+description: Planes, trains, and the places they take us.
 
 url: https://long-haul.netlify.app
 # Only necessary when hosting your site in a sub-directory. Project sites hosted on GitHub Pages are the common use-case of this variable.
@@ -25,4 +25,4 @@ navigation:
       url: /about
 
 
-google_analytics: "#####"
+google_analytics: "10623241786"
