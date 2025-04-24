@@ -106,7 +106,7 @@ Waiting on the adjacent platform was a modern Stadler FLIRT trainset operated by
 After walking around for a few minutes I climbed on board.  Tickets can be purchased from contactless machines: tap your card (international credit cards accepted), select your destination, tap again to pay, then show your card number to the onboard inspector to validate your fare.  This costs the same as purchasing online: advance bookings open 14 days ahead of departure, and are required for first class tickets.  Second class seats are unassigned and cannot sell out.  The fare is the same booking online or using the on-board contactless machines; buying in cash from the attendant costs slightly more (just over €1 difference if making the full journey to Tallinn).
 <div class="centered-block">
   <img src="/assets/img/baltics10.JPG" alt="Payment machine inside the Valga to Tallinn train.">
-  <p>No advance purchase necessary: select your destination then tap your card on these payment machines, located next to the doors.  The machines are in English and international cards are accepted.</p>
+  <p>No advance purchase necessary: select your destination then tap your card on these payment machines, located next to the doors.  The machines can be set to English and international cards are accepted.</p>
 </div>
 First class tickets cost €4 more, and come with faster WiFi, assigned seats, and slightly more space with seats being arrange 2-2 instead of 2-3 as in second class.  If travelling with a bicycle it is mandatory to purchase a separate ticket (€8.27) in the summer season, free in winter.  Only four bicycle tickets are available and can sell out.
 
