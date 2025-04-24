@@ -1,7 +1,7 @@
 --- 
 layout: post
 title: "Zagreb to Ljubljana by Train"
-date: "January 27, 2025"
+date: "January 23, 2025"
 image: croatiafeatured-min.JPG
 ---
 
