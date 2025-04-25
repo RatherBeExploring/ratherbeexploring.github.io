@@ -65,12 +65,12 @@ Unfortunately since I travelled in January, sunset was around an hour after depa
 </div>
 We kept good time right up to the second-last stop before entering Croatia, Nagykanizsa.  Here all but myself and one other traveller in my carriage disembarked, and we had a planned 20-minute stop.  This is where I expected we would change to a Croatian locomotive, but at our next stop, Gyékényes, we halted for another 20 minutes and I got off to watch the Croatian 1142 series locomotive take over on a dark and foggy night.  The station and atmosphere gave off definite “Bridge of Spies” vibes.  We crossed the border around half an hour behind schedule.
 <div class="centered-block">
-  <img src="/assets/img/bugapest9-min.JPG" alt="Standing between tracks with fog obstructing a dark sky.">
+  <img src="/assets/img/budapest9-min.JPG" alt="Standing between tracks with fog obstructing a dark sky.">
   <p>Not a train I wanted to miss...</p>
 </div>
 Our first stop in Croatia, Kapronca, would turn out to be the last for our “direct” service.  After 45 minutes, a friendly employee informed us that our train would be held for an unknown amount of time, but an express train would soon arrive carrying on to Zagreb.  She was happy to repeat this information for me in English, and confirmed my Hungarian ticket would still be valid.
 <div class="centered-block">
-  <img src="/assets/img/bugapest10-min.JPG" alt="Croatian express train waiting to board in Kapronca.">
+  <img src="/assets/img/budapest10-min.JPG" alt="Croatian express train waiting to board in Kapronca.">
   <p>A welcome sight: the Croatian express service that arrived shortly after our train from Budapest was delayed indefinitely.</p>
 </div>
 All but a handful of the Croatian passengers who joined our train in Kapronca promptly got off and crossed the platform, waiting around five minutes for the newer type 7023 unit to pull in.  This would make only four stops en route to Zagreb, and as a result I found myself at Zagreb’s Glavni Kolodvor around 45 minutes behind schedule, having covered 350 kilometres and two countries by rail in seven hours and 20 minutes.
