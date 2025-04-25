@@ -144,7 +144,7 @@ Between these two services I pressed the call button, which was ignored (as it w
   <p>The only snack available on Condor premium economy between services, and only if you can get the attention of the crew.</p>
 </div>
 It is common even in long-haul economy for crew to stock the galleys with water and basic snacks between services.  Condor does not do this, and to charge for a bag of chips or the like is only acceptable on a low-cost carrier or short-haul economy service.
-<blockquote>The small, bad, packaged meals and lack of snacks left me hungry after the eight-hour flight in Condor premium economy.</blockquote>
+<blockquote>The small, bad, packaged meals and lack of snacks left me hungry after an eight-hour flight in Condor premium economy.</blockquote>
 The pre-landing snack was served starting exactly two hours before landing.  It consisted of a fruit bowl (which was all apple and one lonely piece of mango), small pasta salad, cheese pizza, and packaged cookie.  The pizza was the best part of the food service, and even that I would not have been surprised to see as a pre-landing economy snack.
 <div class="centered-block">
   <img src="/assets/img/condor17-min.JPG" alt="Pre-landing snack of pizza, pasta salad, sliced apples, and a packaged cookie, served on a single tray.">
