@@ -43,7 +43,7 @@ We left on time at 15:35 with around ten passengers in my carriage; we would dou
 
 Despite rough appearances, the Hungarian second class carriage was quite comfortable and surprisingly modern, with free WiFi available until the border that was fast enough for streaming.  Electronic displays showed our location and updated arrival times for the next few stops.
 <div class="centered-block">
-  <img src="/assets/img/budapest5-min.JPG" alt="Display screen showing speed, location, and upcoming stops".>
+  <img src="/assets/img/budapest5-min.JPG" alt="Display screen showing speed, location, and upcoming stops.">
   <p>Small display screens keep passengers updated along the way.</p>
 </div>
 There is no restaurant car on board, nor any chances along the journey to purchase food, so bring your own.  Drinking alcohol you bring on board is permitted.  There are small garbage cans next to each of the four-seater sections with tables, one of which I had to myself for the entire journey.
