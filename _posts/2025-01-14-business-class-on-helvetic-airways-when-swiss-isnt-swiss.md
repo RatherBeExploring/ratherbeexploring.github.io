@@ -5,7 +5,7 @@ date: "January 14, 2025"
 image: helveticfeatured-min.JPG
 ---
 
-<p class="intro"><span class="dropcap">W/span>ith only half an hour to work with, I was impressed with what Helvetic delivered on a short flight across the Alps.</p>
+<p class="intro"><span class="dropcap">W</span>ith only half an hour to work with, I was impressed with what Helvetic delivered on a short flight across the Alps.</p>
 
 ## Introduction
 
