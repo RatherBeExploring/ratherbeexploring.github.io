@@ -54,7 +54,7 @@ There is no restaurant car on board, nor any chances along the journey to purcha
 The seat was…fine, nothing special.  Since I would be <a href="https://ratherbeexploring.github.io/blog/zagreb-to-ljubljana-by-train/" target="_blank">travelling by train later on in Croatia</a>, I opted to book a seat in the Hungarian coach so I could try out both.  No recline, headrest that moved up or down about an inch and a half, ample legroom.  Two-seat pairs have seatback pockets but no table.  Power outlets are located throughout the train and worked fine.  Washrooms are located at either end of the carriage.
 <div class="centered-block">
   <img src="/assets/img/budapest7-min.JPG" alt="Second class seats in the Hungarian intercity coach.">
-  <p>Second class seats in the Hungarian coach were a little dirty, but comfortable enough.</p>
+  <p>Second class seats in the Hungarian coach were well-worn, but comfortable enough.</p>
 </div>
 Unfortunately since I travelled in January, sunset was around an hour after departure—so views out the window were limited to the suburbs of Budapest, and then darkness.
 
