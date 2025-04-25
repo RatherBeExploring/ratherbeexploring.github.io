@@ -98,7 +98,7 @@ Fifteen minutes after takeoff premium economy passengers were offered what would
 Condor economy and premium economy seats are nearly identical, with the biggest difference being an extra five inches of legroom.  I actually found this to be less than advertised though: the footrests that come with premium economy seats, though many were missing, intrude significantly into leg space whether the footrest is raised or lowered.  It was a nice perk not present on economy seats for the first half of the flight, but in the latter half I would have preferred it not be there so I could stretch my legs more easily.
 <div class="centered-block">
   <img src="/assets/img/condor10-min.JPG" alt="Foot rest extended below a seat.">
-  <p>The foot rests, missing from many premium economy seats, eventually just got in the way of sitting comfortably.</p>
+  <p>The footrests, missing from many premium economy seats, eventually just got in the way of sitting comfortably.</p>
 </div>
 Economy and premium seats both have coat hooks, a fold-out device holder immediately under the IFE screen, an average tray table that folds out either halfway or fully, adjustable headrest, and USB-A/C charging integrated into the IFE screen.  Condor cheaped out and did not install individual air vents, though each seat has an overhead reading light.
 
