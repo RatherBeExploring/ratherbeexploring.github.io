@@ -18,21 +18,20 @@ layout: default
   {%- assign intro_end = page.content | split:'</p>' | first | append:'</p>' -%}
   {{ intro_end }}
 
-  {%- assign toc_headings = page.content | split:"<h2" -%}
-  {%- assign toc_count = toc_headings.size | minus:1 -%}
-  {%- if toc_count > 0 -%}
-    <nav class="post-toc">
-      <ul>
-        {%- for part in toc_headings offset:1 -%}
-          {%- assign heading_full = part | split:"</h2>" | first -%}
-          {%- assign heading_text_start = heading_full | split:"&gt;" | last -%}
-          {%- assign heading_text = heading_text_start | strip_html | strip -%}
-          {%- assign heading_id = heading_text | slugify -%}
-          <li><a href="#{{ heading_id }}">{{ heading_text }}</a></li>
-        {%- endfor -%}
-      </ul>
-    </nav>
-  {%- endif -%}
+{%- assign toc_headings = page.content | split:"<h2" -%}
+{%- assign toc_count = toc_headings.size | minus: 1 -%}
+{%- if toc_count > 0 -%}
+  <nav class="post-toc">
+    <ul>
+      {%- for part in toc_headings offset:1 -%}
+        {%- assign raw = part | split:"</h2>" | first -%}
+        {%- assign text_only = raw | replace_regex: '^.*?>', '' | strip_html | strip -%}
+        {%- assign heading_id = text_only | slugify -%}
+        <li><a href="#{{ heading_id }}">{{ text_only }}</a></li>
+      {%- endfor -%}
+    </ul>
+  </nav>
+{%- endif -%}
 
   {%- assign remainder = page.content | remove: intro_end -%}
   {{ remainder }}
