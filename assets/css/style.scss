@@ -56,6 +56,78 @@
   font-style: italic;
 }
 
+.image-gallery {
+  text-align: center;
+  margin: 40px 0;
+}
+
+.gallery-container {
+  position: relative;
+  overflow: hidden;
+  max-width: 450px;
+  margin: 0 auto;
+}
+
+.gallery-slide {
+  display: none;
+}
+
+.gallery-slide img {
+  max-width: 450px;
+  width: 100%;
+  height: auto;
+  margin: 0 auto;
+  display: block;
+}
+
+.caption {
+  margin-top: 10px;
+  font-size: 0.9em;
+  color: #666;
+  max-width: 450px;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+  font-style: italic;
+}
+
+.gallery-nav {
+  background: transparent;
+  color: #333;
+  border: none;
+  font-size: 24px;
+  padding: 8px 12px;
+  cursor: pointer;
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  transition: color 0.3s ease;
+}
+
+.gallery-nav.prev {
+  left: 0;
+}
+
+.gallery-nav.next {
+  right: 0;
+}
+
+/* Dark mode support */
+@media (prefers-color-scheme: dark) {
+  .gallery-nav {
+    color: #ddd;
+  }
+}
+
+.gallery-nav:hover {
+  color: #007acc; /* Accent colour on hover */
+}
+
+/* Show only the active slide */
+.gallery-slide.active {
+  display: block;
+}
+
 footer {
   background-color: transparent;
   text-align: center;
