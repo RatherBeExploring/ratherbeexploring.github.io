@@ -178,21 +178,37 @@ footer {
 
 .post-toc a {
   font-weight: bold;
-  text-decoration: none; /* no underline normally */
-  color: #2e8b57; /* normal green for light mode */
-  transition: color 0.3s, text-decoration 0.3s;
+  color: #2e8b57;
+  position: relative;
+  text-decoration: none;
+  display: inline-block; /* Needed for centre underline */
+  overflow: hidden; /* Hide the pseudo-element outside */
 }
 
-.post-toc a:hover {
-  text-decoration: underline; /* underline only on hover */
+.post-toc a::after {
+  content: '';
+  position: absolute;
+  bottom: -2px;
+  left: 50%;
+  transform: translateX(-50%);
+  width: 0;
+  height: 2px;
+  background-color: #2e8b57;
+  transition: width 0.4s ease;
+}
+
+.post-toc a:hover::after {
+  width: 100%;
 }
 
 /* Dark mode adjustments */
 @media (prefers-color-scheme: dark) {
   .post-toc a {
-    color: #66cdaa; /* lighter green for dark backgrounds */
+    color: #66cdaa;
+  }
+  .post-toc a::after {
+    background-color: #66cdaa;
   }
 }
-
 
 // If IE support is needed you can add them here or create another stylesheet for specific IE fixes
