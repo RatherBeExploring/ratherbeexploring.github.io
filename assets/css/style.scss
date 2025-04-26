@@ -179,26 +179,23 @@ footer {
 .post-toc a {
   font-weight: bold;
   color: #2e8b57;
-  position: relative;
+  position: relative; /* Needed for pseudo-element underline */
   text-decoration: none;
-  display: inline-block; /* Needed for centre underline */
-  overflow: hidden; /* Hide the pseudo-element outside */
 }
 
 .post-toc a::after {
   content: '';
   position: absolute;
-  bottom: -2px;
-  left: 50%;
-  transform: translateX(-50%);
+  left: 0;
+  bottom: -2px; /* Small gap under text */
   width: 0;
   height: 2px;
   background-color: #2e8b57;
-  transition: width 0.4s ease;
+  transition: width 0.3s ease;
 }
 
 .post-toc a:hover::after {
-  width: 100%;
+  width: 100%; /* Animate underline growing from left to right */
 }
 
 /* Dark mode adjustments */
