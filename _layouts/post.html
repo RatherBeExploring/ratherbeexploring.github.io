@@ -16,24 +16,28 @@ layout: default
   </header>
 
   {%- assign toc_headings = page.content | split:"<h2" -%}
-  {%- if toc_headings.size > 1 -%}
+  {%- assign toc_count = toc_headings.size | minus:1 -%}
+  {%- if toc_count > 0 -%}
     {%- capture toc -%}
       <nav class="post-toc">
-        <ul>
-        {%- for part in toc_headings offset:1 -%}
-          {%- assign heading = part | split:"</h2>" | first -%}
-          {%- assign heading_text = heading | remove: '>' | strip_html | strip -%}
-          {%- assign heading_id = heading_text | slugify -%}
-          <li><a href="#{{ heading_id }}">{{ heading_text }}</a></li>
-        {%- endfor -%}
-        </ul>
+        <details {% unless toc_count > 4 %}open{% endunless %}>
+          <summary>Table of Contents</summary>
+          <ul>
+          {%- for part in toc_headings offset:1 -%}
+            {%- assign heading_full = part | split:"</h2>" | first -%}
+            {%- assign heading_text = heading_full | split:"&gt;" | last | strip_html | strip -%}
+            {%- assign heading_id = heading_text | slugify -%}
+            <li><a href="#{{ heading_id }}">{{ heading_text }}</a></li>
+          {%- endfor -%}
+          </ul>
+        </details>
       </nav>
     {%- endcapture -%}
   {%- endif -%}
 
   {%- assign intro_end = page.content | split:'</p>' | first | append:'</p>' -%}
   {{ intro_end }}
-  
+
   {%- if toc -%}
     {{ toc }}
   {%- endif -%}
@@ -67,4 +71,3 @@ layout: default
 {%- if site.disqus.shortname -%}
   {%- include disqus_comments.html -%}
 {%- endif -%}
-
