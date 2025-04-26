@@ -4,6 +4,7 @@
 <script src="{{ '/assets/js/dropcap.min.js' | relative_url }}"></script>
 <script src="{{ '/assets/js/responsive-nav.min.js' | relative_url }}"></script>
 <script src="{{ '/assets/js/scripts.js' | relative_url }}"></script>
+// Script for image galleries
 <script>
 document.addEventListener('DOMContentLoaded', function() {
   const slides = document.querySelectorAll('.gallery-slide');
@@ -25,5 +26,42 @@ document.addEventListener('DOMContentLoaded', function() {
     currentSlide = (index + totalSlides) % totalSlides;
     slides[currentSlide].classList.add('active');
   }
+});
+</script>
+// Table of contents
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+  const tocList = document.getElementById('toc-list');
+  if (!tocList) return;
+
+  const headings = document.querySelectorAll('.post h2');
+
+  headings.forEach(function(heading, index) {
+    const id = heading.id || 'section-' + index;
+    heading.id = id; // Ensure the heading has an id for linking
+
+    const li = document.createElement('li');
+    const a = document.createElement('a');
+    a.href = '#' + id;
+    a.textContent = heading.textContent;
+
+    li.appendChild(a);
+    tocList.appendChild(li);
+  });
+
+  // Smooth scroll when clicking TOC links
+  tocList.addEventListener('click', function(event) {
+    if (event.target.tagName === 'A') {
+      event.preventDefault();
+      const targetId = event.target.getAttribute('href').substring(1);
+      const targetElement = document.getElementById(targetId);
+      if (targetElement) {
+        window.scrollTo({
+          top: targetElement.offsetTop - 20,
+          behavior: 'smooth'
+        });
+      }
+    }
+  });
 });
 </script>
