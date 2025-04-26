@@ -162,14 +162,14 @@ footer {
 }
 // Table of contents
 .post-toc {
-  margin: 20px auto;
-  max-width: 450px;
-  text-align: left;
+  margin: 20px 0;
+  max-width: 100%; 
+  text-align: left; 
 }
 
 .post-toc ul {
   list-style: disc inside;
-  padding-left: 0;
+  padding-left: 1em; 
 }
 
 .post-toc li {
@@ -178,13 +178,12 @@ footer {
 
 .post-toc a {
   text-decoration: none;
-  color: #007acc;
+  color: inherit; 
   transition: color 0.3s;
 }
 
 .post-toc a:hover {
   text-decoration: underline;
 }
-
 
 // If IE support is needed you can add them here or create another stylesheet for specific IE fixes
