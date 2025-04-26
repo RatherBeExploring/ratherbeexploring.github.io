@@ -24,10 +24,10 @@ layout: default
   <nav class="post-toc">
     <ul id="toc-list">
       {%- for part in toc_headings offset:1 -%}
-        {%- assign heading_full = part | split:"</h2>" | first -%}
-        {%- assign heading_text = heading_full | replace_regex: '^.*?>', '' | strip_html | strip -%}
-        {%- assign heading_id = heading_text | slugify -%}
-        <li><a href="#{{ heading_id }}">{{ heading_text }}</a></li>
+        {%- assign heading_raw = part | split:"</h2>" | first -%}
+        {%- assign heading_clean = heading_raw | replace: '>', '>' | split:'>' | last | strip -%}
+        {%- assign heading_id = heading_clean | slugify -%}
+        <li><a href="#{{ heading_id }}">{{ heading_clean }}</a></li>
       {%- endfor -%}
     </ul>
   </nav>
