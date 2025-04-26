@@ -31,33 +31,18 @@ document.addEventListener('DOMContentLoaded', function() {
 <!-- Table of contents -->
 <script>
 document.addEventListener('DOMContentLoaded', function() {
+  // Enable smooth scrolling for ToC links
   const tocList = document.getElementById('toc-list');
   if (!tocList) return;
 
-  const headings = document.querySelectorAll('.post h2');
-
-  headings.forEach(function(heading, index) {
-    const id = heading.id || 'section-' + index;
-    heading.id = id; // Ensure the heading has an id for linking
-
-    const li = document.createElement('li');
-    const a = document.createElement('a');
-    a.href = '#' + id;
-    a.textContent = heading.textContent;
-
-    li.appendChild(a);
-    tocList.appendChild(li);
-  });
-
-  // Smooth scroll when clicking TOC links
   tocList.addEventListener('click', function(event) {
-    if (event.target.tagName === 'A') {
+    if (event.target.tagName.toLowerCase() === 'a') {
       event.preventDefault();
       const targetId = event.target.getAttribute('href').substring(1);
       const targetElement = document.getElementById(targetId);
       if (targetElement) {
         window.scrollTo({
-          top: targetElement.offsetTop - 20,
+          top: targetElement.offsetTop - 20, // adjust for header if needed
           behavior: 'smooth'
         });
       }
