@@ -163,13 +163,13 @@ footer {
 // Table of contents
 .post-toc {
   margin: 20px 0;
-  max-width: 100%; 
-  text-align: left; 
+  max-width: 100%;
+  text-align: left;
 }
 
 .post-toc ul {
   list-style: disc inside;
-  padding-left: 1em; 
+  padding-left: 1em;
 }
 
 .post-toc li {
@@ -177,13 +177,22 @@ footer {
 }
 
 .post-toc a {
-  text-decoration: none;
-  color: #2e8b57; 
-  transition: color 0.3s;
+  font-weight: bold;
+  text-decoration: none; /* no underline normally */
+  color: #2e8b57; /* normal green for light mode */
+  transition: color 0.3s, text-decoration 0.3s;
 }
 
 .post-toc a:hover {
-  text-decoration: underline;
+  text-decoration: underline; /* underline only on hover */
 }
+
+/* Dark mode adjustments */
+@media (prefers-color-scheme: dark) {
+  .post-toc a {
+    color: #66cdaa; /* lighter green for dark backgrounds */
+  }
+}
+
 
 // If IE support is needed you can add them here or create another stylesheet for specific IE fixes
