@@ -68,17 +68,21 @@ footer {
 }
 
 .pagination {
-  display: block;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  max-width: 600px;
   width: 100%;
+  margin: 40px auto 0 auto; /* top margin 40px, centred horizontally */
+  padding: 1em 0;
   clear: both;
-  text-align: center;
-  margin-top: 40px;
 }
 
 .pagination a {
   margin: 0 10px;
-
+  flex: 0 0 auto;
 }
+
 .pagination::after {
   content: "";
   display: table;
