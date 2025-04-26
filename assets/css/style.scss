@@ -67,7 +67,15 @@ footer {
   margin-top: 40px;
 }
 
+.pagination {
+  margin-top: 40px;
+  text-align: center;
+  display: block;
+}
 
+.pagination a {
+  margin: 0 10px;
+}
 
 
 // If IE support is needed you can add them here or create another stylesheet for specific IE fixes
