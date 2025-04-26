@@ -22,7 +22,7 @@ layout: default
 {%- assign toc_count = toc_headings.size | minus: 1 -%}
 {%- if toc_count > 0 -%}
   <nav class="post-toc">
-    <ul>
+    <ul id="toc-list">
       {%- for part in toc_headings offset:1 -%}
         {%- assign heading_full = part | split:"</h2>" | first -%}
         {%- assign heading_text = heading_full | replace_regex: '^.*?>', '' | strip_html | strip -%}
