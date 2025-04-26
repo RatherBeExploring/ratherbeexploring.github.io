@@ -77,7 +77,12 @@ footer {
 
 .pagination a {
   margin: 0 10px;
-}
 
+}
+.pagination::after {
+  content: "";
+  display: table;
+  clear: both;
+}
 
 // If IE support is needed you can add them here or create another stylesheet for specific IE fixes
