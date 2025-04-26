@@ -31,7 +31,7 @@
 @media only screen and (min-width: 1200px) {
 	@import "breakpoints/1200up";
 }
-
+// This is how single images are coded
 .centered-block {
   text-align: center;
   margin: 40px 0;
@@ -55,7 +55,7 @@
   text-align: center;
   font-style: italic;
 }
-
+// New code for image galleries
 .image-gallery {
   text-align: center;
   margin: 40px 0;
@@ -138,7 +138,7 @@ footer {
   border-top: 1px solid #ddd;
   margin-top: 40px;
 }
-
+// This fixed the pagination buttons blending with the footer
 .pagination {
   display: flex;
   justify-content: space-between;
@@ -160,5 +160,31 @@ footer {
   display: table;
   clear: both;
 }
+// Table of contents
+.post-toc {
+  margin: 20px auto;
+  max-width: 450px;
+  text-align: left;
+}
+
+.post-toc ul {
+  list-style: disc inside;
+  padding-left: 0;
+}
+
+.post-toc li {
+  margin: 5px 0;
+}
+
+.post-toc a {
+  text-decoration: none;
+  color: #007acc;
+  transition: color 0.3s;
+}
+
+.post-toc a:hover {
+  text-decoration: underline;
+}
+
 
 // If IE support is needed you can add them here or create another stylesheet for specific IE fixes
