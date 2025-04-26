@@ -4,3 +4,26 @@
 <script src="{{ '/assets/js/dropcap.min.js' | relative_url }}"></script>
 <script src="{{ '/assets/js/responsive-nav.min.js' | relative_url }}"></script>
 <script src="{{ '/assets/js/scripts.js' | relative_url }}"></script>
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+  const slides = document.querySelectorAll('.gallery-slide');
+  if (slides.length === 0) return; // No gallery on this page
+
+  let currentSlide = 0;
+  const totalSlides = slides.length;
+
+  document.querySelector('.gallery-nav.prev').addEventListener('click', function() {
+    showSlide(currentSlide - 1);
+  });
+
+  document.querySelector('.gallery-nav.next').addEventListener('click', function() {
+    showSlide(currentSlide + 1);
+  });
+
+  function showSlide(index) {
+    slides[currentSlide].classList.remove('active');
+    currentSlide = (index + totalSlides) % totalSlides;
+    slides[currentSlide].classList.add('active');
+  }
+});
+</script>
