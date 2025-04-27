@@ -15,6 +15,7 @@ SWISS offers excellent last-minute award seat availability to its Star Alliance 
 * Seat comfortable in bed mode
 * Polished, unintrusive service
 * Excellent arrivals experience
+
 ### The Bad:
 * Seat uncomfortable as a seat
 * Poor food
@@ -93,7 +94,7 @@ Pre-departure service concluded with a (very) hot towel shortly before we pushed
 </div>
 Fifteen minutes after takeoff, I was addressed by name and asked if I would like a drink from the bar while also taking my dinner order.  I went for a gin and tonic, which came with a package of cashews and walnuts, and chose the beef tenderloin for my meal.
 
-### On-Board Menu
+#### On-Board Menu
 <div class="image-gallery">
   <div class="gallery-container">
     <button class="gallery-nav prev" aria-label="Previous">&#10094;</button>
