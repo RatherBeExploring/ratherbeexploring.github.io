@@ -18,7 +18,7 @@ SWISS operates two separate check-in areas for economy and business/first passen
   <img src="/assets/img/helvetic1-min.JPG" alt="Check-in desks for business and first class passengers at Zurich Airport.">
   <p>Check-in area one at Zurich Airport serves business class and Star Alliance Gold passengers (desks on the left) as well as first class and HON Circle members (through the glass doors on the right).</p>
 </div>
-I had already received my boarding pass from an earlier SWISS flight from Montreal, but stopped by to check my carry-on bag through to Milan since I had a few hours to explore Zurich and didn’t want to take my suitcase with me.  This was accomplished quickly with no wait by a friendly SWISS staff member.
+I had already received my boarding pass from <a href="https://ratherbeexploring.github.io/blog/business-class-on-the-swiss-a330-montreal-to-zurich/" target="_blank">an earlier SWISS flight from Montreal</a>, but stopped by to check my carry-on bag through to Milan since I had a few hours to explore Zurich and didn’t want to take my suitcase with me.  This was accomplished quickly with no wait by a friendly SWISS staff member.
 
 After a lovely afternoon in a lovely city I was back at check-in area one, which is also where you’ll find the priority security lane for business class passengers.  There was only one person in front of me in this lane, and I was through in about 90 seconds.
 
