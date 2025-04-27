@@ -1,8 +1,7 @@
 title: Rather Be Exploring
 description: Planes, trains, and the places they take us.
 
-url: https://long-haul.netlify.app
-# Only necessary when hosting your site in a sub-directory. Project sites hosted on GitHub Pages are the common use-case of this variable.
+url: "https://ratherbeexploring.github.io"
 baseurl: # Ex: /project-page
 paginate_path: "blog/page:num/"
 permalink: blog/:title/
