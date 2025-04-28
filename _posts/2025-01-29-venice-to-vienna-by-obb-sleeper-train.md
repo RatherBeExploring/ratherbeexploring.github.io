@@ -41,7 +41,7 @@ Sleeper cabins without an en suite shower have access to shared showers in each 
 <blockquote>The ÖBB Nightjet calls at both Venice Santa Lucia, on the Grand Canal and close to major tourist sites, as well as Venice Mestre, on the mainland.</blockquote>
 Our platform was posted 20 minutes prior to departure, and the doors opened around 15 minutes beforehand.  ÖBB arranges passengers based on origin points, to avoid interrupting your sleep with passengers getting on board in the middle of the night, so expect your compartment to be about as full as it will get when you board.
 <div class="centered-block">
-  <img src="/assets/img/venice2-min.JPG" alt="Train waiting at platform.">
+  <img src="/assets/img/venice1-min.JPG" alt="Train waiting at platform.">
   <p>Waiting to depart from Venice Santa Lucia.</p>
 </div>
 Each passenger in couchette class receives a small bottle of water and a packaged wafer.  The attendant comes around shortly after departure to verify tickets and ask if you would like coffee or tea with breakfast.
