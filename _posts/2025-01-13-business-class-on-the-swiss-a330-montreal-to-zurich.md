@@ -122,7 +122,7 @@ The food was without a doubt the low point of the flight.  The beef was tough an
   <img src="/assets/img/swiss15-min.JPG" alt="From left to right: salad bowl, cheese plate, two bread rolls, small beef filet, red wine, glass of sparkling water.">
   <p>The salad dressing was congealed, the cheese was stale, the beef overcooked, the vegetables undercooked...but the sparkling water was just right.  Note the difficulty/impossibility of getting out of the seat with the table deployed.</p>
 </div>
-The desert, a chocolate tart, was incredibly rich; I left most of it, which is unusual for me but it was just too much.  The purser then came around offering Lindt chocolates, and I finished with a glass of seven-year-old Swiss single malt whiskey—the only part of the meal I would describe as “good”.
+The dessert, a chocolate tart, was incredibly rich; I left most of it, which is unusual for me but it was just too much.  The purser then came around offering Lindt chocolates, and I finished with a glass of seven-year-old Swiss single malt whiskey—the only part of the meal I would describe as “good”.
 <div class="centered-block">
   <img src="/assets/img/swiss16-min.JPG" alt="Slice of chocolate cake served on white plate with berries and whipped cream, metal spoon on the right side.">
   <p>I left most of this incredibly rich tart.</p>
