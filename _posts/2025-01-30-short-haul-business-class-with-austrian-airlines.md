@@ -68,8 +68,8 @@ During 20 minutes, this crew did more than would be expected on flights of a few
 
 ## Arrival and Cost
 
-We touched down in Prague 35 minutes and four seconds after wheels-up in Vienna.  Both of these short flights were part of a larger Aeroplan booking of six flights between Montreal and Vilnius, which cost 75,000 points plus $336.80 in taxes and fees, most of which was for <a href="https://ratherbeexploring.github.io/blog/business-class-on-the-swiss-a330-montreal-to-zurich/" target="_blank" rel="noopener noreferrer">my long-haul flight with SWISS</a>.  Cash fares for both of these flights, booked one way around two months out, are in the neighbourhood of €250—which is pretty high for such a short flight, especially considering regular, cheap, comfortable trains link Vienna and Prague and low-cost carriers compete on the Milan-Vienna route.
 <div class="centered-block">
   <img src="/assets/img/austrian8-min.JPG" alt="View of Prague from above, slightly obscured by fog: Vltava River and five bridges seen on the left, Prague Castle on the right.">
   <p>Our descent into Prague offered lovely views of the Old Town, including the River Vltava and Prague Castle.</p>
 </div>
+We touched down in Prague 35 minutes and four seconds after wheels-up in Vienna.  Both of these short flights were part of a larger Aeroplan booking of six flights between Montreal and Vilnius, which cost 75,000 points plus $336.80 in taxes and fees, most of which was for <a href="https://ratherbeexploring.github.io/blog/business-class-on-the-swiss-a330-montreal-to-zurich/" target="_blank" rel="noopener noreferrer">my long-haul flight with SWISS</a>.  Cash fares for both of these flights, booked one way around two months out, are in the neighbourhood of €250—which is pretty high for such a short flight, especially considering regular, cheap, comfortable trains link Vienna and Prague and low-cost carriers compete on the Milan-Vienna route.
