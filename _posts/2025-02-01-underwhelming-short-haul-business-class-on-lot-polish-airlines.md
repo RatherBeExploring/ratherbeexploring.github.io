@@ -87,7 +87,7 @@ One touch I did appreciate: the business class washrooms were stocked with facia
 
 ## Cost
 
-I booked both of these flights as part of a larger six-flight Aeroplan redemption, costing 75,000 miles and $336.80 CAD in fees, <a href="https://ratherbeexploring.github.io/blog/business-class-on-the-swiss-a330-montreal-to-zurich/" target="_blank" rel="noopener noreferrer">most of which were for my trans-Atlantic hop with SWISS</a>.  The five short-haul flights within Europe I added essentially for free, paying a few euros in fees for each.
+I booked both of these flights as part of a larger six-flight Aeroplan redemption, costing 75,000 miles and $336.80 CAD in fees, <a href="https://ratherbeexploring.github.io/blog/business-class-on-the-swiss-a330-montreal-to-zurich/" target="_blank" rel="noopener noreferrer">most of which was for my trans-Atlantic hop with SWISS</a>.  The five short-haul flights within Europe I added essentially for free, paying a few euros in fees for each.
 
 Booking two months out, LOT wants around €400 one-way PRG-WAW and €300 WAW-VNO, which is not at all justified by the service on offer (though in fairness these flights are rarely booked as one-way business class cash tickets).
 
