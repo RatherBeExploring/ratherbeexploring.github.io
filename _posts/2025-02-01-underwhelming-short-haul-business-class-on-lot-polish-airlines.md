@@ -32,7 +32,7 @@ All in, security took around 20 minutes, most of which was waiting and navigatin
 Since flag carrier and Skyteam member Czech Airlines ceased operations in October 2024, no alliance carriers have had a major presence at Prague’s Václav Havel Airport.  This makes the lounge situation sparse, despite Prague being a major destination for European tourism: all airlines that offer passengers lounge access for Schengen-area flights, including LOT, use the Erste Premier Lounge in T2.  This was below-average for a contract lounge: busy, limited seating options, no hot food options.  Staff were working hard to keep the space clean though, and there was good coffee and self-serve alcohol on offer.  
 <div class="centered-block">
   <img src="/assets/img/lot2-min.JPG" alt="Light-orange coloured couscous with sliced vegetables in side-by-side serving trays, metal spoons protruding from both.">
-  <p>The only "hot" option on offer in the early morning at the Erste Premier Lounge were two trays of couscous with vegetables.  Neither was actually hot.</p>
+  <p>The only "hot" options on offer in the early morning at the Erste Premier Lounge were two trays of couscous with vegetables.  Neither was actually hot.</p>
 </div>
 In Warsaw, LOT offers its flagship Business Lounge Polonez.  There is also a lounge-within-a-lounge accessible to Star Alliance Gold members.  Both spaces are immediately after duty free, with elevator and stair access.
 <div class="centered-block">
