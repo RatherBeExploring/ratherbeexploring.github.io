@@ -79,7 +79,7 @@ Our compartment was woken up around an hour before arrival into Vienna by our at
 
 ## Arrival
 
-After nibbling on my bread for a few minutes, I went to get changed and freshen up.  Couchette passengers do not have access to a shower; I brought two towelettes courtesy of recent flights with Austrian, which worked well.  The water in each washroom is not suitable for brushing teeth or drinking; I brought my own water bottle for the latter, and used the small one provided by ÖBB for the former.
+After nibbling on my bread for a few minutes, I went to get changed and freshen up.  Couchette passengers do not have access to a shower; I brought two towelettes courtesy of <a href="https://ratherbeexploring.github.io/blog/short-haul-business-class-with-austrian-airlines/" target="_blank" rel="noopener noreferrer">a recent flight with Austrian</a>, which did the trick.  The water in each washroom is not suitable for brushing teeth or drinking; I brought my own water bottle for the latter, and used the small one provided by ÖBB for the former.
 <div class="centered-block">
   <img src="/assets/img/trieste3-min.JPG" alt="Empty train carriage showing blue seats arranged 2-2, most facing each other with a small, curved wooden table in between.">
   <p>The seating coach on my sleeper train was filled with commuters to Vienna, but here's an identical empty carriage from <a href="https://ratherbeexploring.github.io/blog/ljubljana-to-trieste-with-the-worlds-fastest-electric-locomotive/" target="_blank" rel="noopener noreferrer">another trip I took with ÖBB a few days before, to Trieste.</a></p>
