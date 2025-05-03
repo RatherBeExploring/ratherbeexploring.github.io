@@ -80,7 +80,10 @@ Our compartment was woken up around an hour before arrival into Vienna by our at
 ## Arrival
 
 After nibbling on my bread for a few minutes, I went to get changed and freshen up.  Couchette passengers do not have access to a shower; I brought two towelettes courtesy of recent flights with Austrian, which worked well.  The water in each washroom is not suitable for brushing teeth or drinking; I brought my own water bottle for the latter, and used the small one provided by ÖBB for the former.
-
+<div class="centered-block">
+  <img src="/assets/img/trieste3-min.JPG" alt="Empty train carriage showing blue seats arranged 2-2, most facing each other with a small, curved wooden table in between.">
+  <p>The seating coach on my sleeper train was filled with commuters to Vienna, but here's an identical empty carriage from <a href="https://ratherbeexploring.github.io/blog/ljubljana-to-trieste-with-the-worlds-fastest-electric-locomotive/" target="_blank" rel="noopener noreferrer">another trip I took with ÖBB a few days before, to Trieste.</a></p>
+  </div>
 With around 45 minutes to go, I opted to migrate to the open second class seater coach.  Since the beds stay down for the entire journey, sitting is much more comfortable in these carriages rather than staying in your couchette compartment.  The power outlets also worked here.
 
 Walking up the train, I passed by a few unbooked sleeper cabins, and was made very aware of how bad of a decision it had been not to spend the extra €15 for a shared sleeper over shared couchette: this was one of the newly refurbished sleeper carriages, and the cabins looked very smart indeed.
