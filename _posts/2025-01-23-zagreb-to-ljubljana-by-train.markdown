@@ -2,6 +2,7 @@
 layout: post
 title: "Zagreb to Ljubljana by Train"
 date: "January 23, 2025"
+description: "It's not as fast as the many daily busses, but taking the train is comfortable and relaxing. Tickets are cheap too, even if you can only buy them in-person."
 image: croatiafeatured-min.JPG
 ---
 
