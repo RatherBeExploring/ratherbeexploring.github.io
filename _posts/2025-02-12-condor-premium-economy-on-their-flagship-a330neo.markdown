@@ -2,6 +2,7 @@
 layout: post
 title: "Condor Premium Economy on Their Flagship A330neo"
 date: "February 12, 2025"
+description: "Less premium, more economy. Think of it as an extra legroom seat: the food, service, and ground experience are all economy-level and not worth the added cost."
 image: condorfeatured-min.jpg
 ---
 
