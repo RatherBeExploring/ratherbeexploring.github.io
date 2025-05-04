@@ -2,6 +2,7 @@
 layout: post
 title: "Rovaniemi to Helsinki by Overnight Train: Aboard the Santa Claus Express"
 date: "February 9, 2025"
+description: "With an entire compartment just for you and your party, Finnish sleeper trains are private and comfortable—but at a price that can be a lot higher than flying."
 image: vrfeatured-min.JPG
 ---
 
