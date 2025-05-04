@@ -2,6 +2,7 @@
 layout: post
 title: "Ljubljana to Trieste with the World's Fastest Electric Locomotive"
 date: "January 26, 2025"
+description: "Busses are more popular on this route, but you could be missing out on a cheap, comfortable option: three daily trains linking city centre to city centre."
 image: triestefeatured-min.JPG
 ---
 
