@@ -2,6 +2,7 @@
 layout: post
 title: "Business Class on Helvetic Airways: When SWISS Isn't SWISS"
 date: "January 14, 2025"
+description: "Despite the different name, Helvetic delivers the same standard of service you'd expect from SWISS (chocolate included) and the ground experience is identical."
 image: helveticfeatured-min.JPG
 ---
 
