@@ -2,6 +2,7 @@
 layout: post
 title: "Underwhelming: Short-Haul Business Class on LOT Polish Airlines"
 date: "February 1, 2025"
+description: "Business class on short flights within Europe is all about less time wasted on the ground and better service in the air. LOT misses the mark on both fronts."
 image: lotfeatured-min.JPG
 ---
 
