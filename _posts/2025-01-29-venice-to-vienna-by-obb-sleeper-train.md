@@ -2,6 +2,7 @@
 layout: post
 title: "Venice to Vienna by ÖBB Sleeper Train"
 date: "January 29, 2025"
+description: "ÖBB sleeper trains are a cost-effective way to maximise your sightseeing time, travelling between major cities without losing time and money to flights."
 image: venicefeatured-min.jpg
 ---
 
