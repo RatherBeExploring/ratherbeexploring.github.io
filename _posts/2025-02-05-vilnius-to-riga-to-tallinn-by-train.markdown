@@ -2,6 +2,7 @@
 layout: post
 title: "Vilnius to Riga to Tallinn by Train"
 date: "February 5, 2025"
+description: "The Baltic capitals are now linked by a convenient, once-a-day connecting service that is comfortable and relaxing—at a fraction of the cost of flying."
 image: balticsfeatured.JPG
 ---
 <p class="intro"><span class="dropcap">T</span>he new, slow and scenic route across the Baltics, making a small bit of history along the way.</p>
