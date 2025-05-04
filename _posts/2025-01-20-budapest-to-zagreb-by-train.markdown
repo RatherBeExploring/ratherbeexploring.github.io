@@ -2,6 +2,7 @@
 layout: post
 title: "Budapest to Zagreb by Train"
 date: "January 20, 2025"
+description: "The little-used once-daily direct train between Budapest and Zagreb is much cheaper than flying, more comfortable than busses, and a stress-free way to travel."
 image: budapestfeatured-min.JPG
 ---
 
