@@ -2,6 +2,7 @@
 layout: post
 title: "Short-Haul Business Class with Austrian Airlines"
 date: "January 30, 2025"
+description: "Good food, solid lounges, phenomenal service.  Austrian Airlines sets the standard for impressing guests even when there's not a lot of time to work with."
 image: austrianfeatured-min.JPG
 ---
 
