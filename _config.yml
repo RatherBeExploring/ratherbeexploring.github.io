@@ -5,6 +5,7 @@ url: "https://ratherbeexploring.github.io"
 baseurl: # Ex: /project-page
 paginate_path: "blog/page:num/"
 permalink: blog/:title/
+lang: en
 
 # Header Option
 # header: large
