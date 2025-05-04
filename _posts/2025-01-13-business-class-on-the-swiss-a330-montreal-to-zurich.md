@@ -2,6 +2,7 @@
 layout: post
 title: "Business Class on the SWISS A330: Montreal to Zurich"
 date: "January 13, 2025"
+description: "Bad food, clunky IFE, uncomfortable seat, and lack of bedding are partially made up for by solid service and the mother of all arrival perks: a free hotel room."
 image: swissfeatured-min.jpg
 ---
 
