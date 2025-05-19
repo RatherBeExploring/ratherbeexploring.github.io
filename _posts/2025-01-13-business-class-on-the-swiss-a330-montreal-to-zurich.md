@@ -165,7 +165,7 @@ Which is exactly what I did.  Between three hours of sleep on the flight and ano
 
 Aside from these havens of sleep, the SWISS arrivals lounge also offers numerous shower suites and a breakfast buffet.  By the time I left just before the lounge closed at 1pm, I had slept in a bed, had a shower, and eaten a full breakfast - and still had the entire afternoon to explore Zurich wide-eyed and refreshed.
 <blockquote>Between three hours on the plane and three hours in the arrivals lounge, I got a passable night's sleep and experienced no jetlag whatsoever.</blockquote>
-Arriving in Europe early in the morning and having to stumble through half a day before you can check in to your hotel (or having to pay an extortionate amount for a few hours’ rest at a transit hotel) is the worst part of westbound trans-Atlantic travel, and these rest rooms certainly set SWISS apart for travellers with a bit more time looking to combat jetlag.
+Arriving in Europe early in the morning and having to stumble through half a day before you can check in to your hotel (or having to pay an extortionate amount for a few hours’ rest at a transit hotel) is the worst part of eastbound trans-Atlantic travel, and these rest rooms certainly set SWISS apart for travellers with a bit more time looking to combat jetlag.
 
 ## Cost
 
