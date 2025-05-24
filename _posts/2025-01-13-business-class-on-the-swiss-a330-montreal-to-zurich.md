@@ -10,7 +10,7 @@ image: swissfeatured-min.jpg
 
 ## Introduction
 
-SWISS offers excellent last-minute award seat availability to its Star Alliance partners.  So when I put together a month-long Europe trip on short notice, they topped my list for the trans-Atlantic hop.  Overall I found SWISS business class to be a solid option: good service, long bed, and industry-leading arrivals lounge (if you can snag one of the two nap rooms).  The badly dated IFE screen and lumpy seat will hopefully be fixed with the ongoing SWISS Senses modernisation.  The bad food…well that might sadly need a separate fix.
+SWISS offers excellent last-minute award seat availability to its Star Alliance partners.  So when I put together a month-long Europe trip on short notice, they topped my list for the trans-Atlantic hop.  Overall I found SWISS business class to be a solid option: good service, long bed, and industry-leading arrivals lounge (if you can snag one of the three nap rooms).  The badly dated IFE screen and lumpy seat will hopefully be fixed with the ongoing SWISS Senses modernisation.  The bad food…well that might sadly need a separate fix.
 
 ### The Good:
 * Seat comfortable in bed mode
@@ -135,7 +135,7 @@ SWISS cheaped out (this is becoming a theme) and did not install individual air 
 I managed over three hours of uninterrupted sleep on this seven-hour flight, which is excellent for me on a short trans-Atlantic hop.  I woke up with just over an hour to go before landing in Zurich, and within seconds a flight attendant noticed I was awake and offered to bring me breakfast.  SWISS takes breakfast orders prior to takeoff, a practice I dislike; what and whether I have breakfast depends on how well and long I sleep.  On this occasion it wasn’t a problem to change my selections and I just had a glass of orange juice, preferring to linger in a half-awake daze a little longer.  SWISS also invites premium passengers to maximise sleep and take breakfast in the arrivals lounge—more on that below.
 <div class="centered-block">
   <img src="/assets/img/swiss17-min.JPG" alt="Basic, two-dimensional moving map showing plane over the United Kingdom, displaying times in Los Angeles, Chicago, and New York, as well as speed and arrival information in German.">
-  <p>The IFE screen resolution was abysmal, I didn't even bother watching anything but this outdated map.</p>
+  <p>The IFE screen resolution was abysmal: I stuck to this outdated moving map, interrupted by frequent, tacky ads.</p>
 </div>
 I browsed the in-flight entertainment selection, which was slow and unintuitive; the touch screen responded poorly, and the system as a whole was clearly at least a decade old.  I ended up just watching the moving map until landing, which was annoyingly interrupted by an ad for Breitling watches every minute or so.
 
