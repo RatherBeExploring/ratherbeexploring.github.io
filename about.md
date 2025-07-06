@@ -7,4 +7,4 @@
 	<p>A few months after that, in early 2025, flying across the Atlantic on a SWISS A330 I wrote down my thoughts, what I would have liked to have known before booking that flight, what stood out and what was interesting or noteworthy.  That was kind of fun, so I kept doing it and here we are.
 	<p>This site is where I document flights, train rides, border crossings, adventures, and miscellaneous explorations that, for one reason or another, I want to remember and share with friends, family, and digital passers-by. I enjoy writing so tend to post longer-form reviews and musings.  Hopefully something here helps you decide where you'd like to go, and how you'd like to get there.</p>
 
- Contact: RatherBeExploringWebsite[at]gmail.com
+<p>Contact: RatherBeExploringWebsite[at]gmail.com</p>
