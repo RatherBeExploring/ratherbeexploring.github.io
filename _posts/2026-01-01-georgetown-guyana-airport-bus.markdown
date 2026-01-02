@@ -1,7 +1,9 @@
+---
 layout: post
 title: "Georgetown, Guyana Airport Bus"
 date: "January 1, 2026"
 description: "Everything you need to know to take the minibus service to and from Cheddi Jagan International Airport."
+---
 
 <p class="intro"><span class="dropcap">A</span> taxi between Cheddi Jagan International Airport and Georgetown, Guyana can easily be found for $50 USD.  For a fraction of the price and not much more time, there is also a regular minibus service, route 42, plying the same route.  There's not much information about this route online, so here's everything I wished I had known before landing.</p>
 
