@@ -79,7 +79,7 @@ Service on this flight was textbook: competent, efficient, and friendly, exactly
 Meal pre-ordering was available on this flight from ten days to 36 hours before departure.  I pre-ordered the cherry clafoutis, and the service manager addresses all passengers by name on the ground to either confirm or take meals orders.  These arrived around 15 minutes after takeoff.
 
 <div class="centered-block">
-<img src="/assets/img/aircanada7-min.JPG" alt="Breakfast pre-order options: a savory plate, parsley omelette, or cherry clafoutis.">
+<img src="/assets/img/aircanada7-min.png" alt="Breakfast pre-order options: a savory plate, parsley omelette, or cherry clafoutis.">
 <p>Breakfast pre-order options on Air Canada's morning flight from Toronto to Houston.</p>
 </div>
 
