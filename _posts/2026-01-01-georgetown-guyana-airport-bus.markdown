@@ -8,7 +8,7 @@ description: "Everything you need to know to take the minibus service to and fro
 <p class="intro"><span class="dropcap">A</span> taxi between Cheddi Jagan International Airport and Georgetown, Guyana can easily be found for $50 USD.  For a fraction of the price and not much more time, there is also a regular minibus service, route 42, plying the same route.  There's not much information about this route online, so here's everything I wished I had known before landing.</p>
 
 ### Is there a bus between Georgetown Airport and the city centre?
-**Yes**.  Route 42 links Timehri and Georgetown, with a stop right outside the airport.  This is a 12-seater van, not a coach or city bus.
+**Yes**.  Route 42 links Timehri and Georgetown, with a stop right outside the airport.  This is a 15-seater van, not a coach or city bus.
 
 ### How much does it cost?
 
