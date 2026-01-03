@@ -44,7 +44,7 @@ Air Canada's A220 fleet uses the standard 2-2 configuration in business class, w
 
 <div class="centered-block">
 <img src="/assets/img/aircanada3-min.JPG" alt="A pair of business class seats on an Air Canada A220.">
-<p>Air Canada uses a smart, muted colour scheme, complemented with their signature red maple leaf logo stitched on each headrest.</p>
+<p>Air Canada uses a smart, muted colour scheme, complemented by their signature red maple leaf logo stitched on each headrest.</p>
 </div>
 
 The seat is well-designed and comfortable.  Table trays fold out of the armrest, though I still found the seat to be plenty wide.  A small drinks tray is also shared between each seat pair.  There is a small storage cubby in the centre armrest, large enough for a book.  This storage cubby also houses a universal plug; USB charging ports are below the entertainment screen.  A small water bottle was waiting in each seat-back pocket.  Below the entertainment screen you'll find a small literature storage area, which is also ideal for holding phones, wallets, and passports.
@@ -76,7 +76,7 @@ Air Canada forces passengers to watch unskippable ads before every show or movie
 
 Service on this flight was textbook: competent, efficient, and friendly, exactly how I expect service is meant to flow in this cabin on this aircraft.  The service manager was personally handling the business class cabin on this flight, with service starting with hot towels roughly ten minutes after takeoff.
 
-Meal pre-ordering was available on this flight from ten days to 36 hours before departure.  I pre-ordered the cherry clafoutis, and the service manager addresses all passengers by name on the ground to either confirm or take meals orders.  These arrived around 15 minutes after takeoff.
+Meal pre-ordering was available on this flight from ten days to 36 hours before departure.  I pre-ordered the cherry clafoutis, and the service manager addressed all passengers by name on the ground to either confirm or take meals orders.  These arrived around 15 minutes after takeoff.
 
 <div class="centered-block">
 <img src="/assets/img/aircanada7-min.png" alt="Breakfast pre-order options: a savory plate, parsley omelette, or cherry clafoutis.">
