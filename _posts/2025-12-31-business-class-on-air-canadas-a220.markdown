@@ -1,6 +1,6 @@
 --- 
 layout: post
-title: "Business Class on Air Canada's A220"
+title: "Business Class on an Air Canada A220"
 date: "December 31, 2025"
 description: "An all-around solid experience for regional business class in North America, with the seat being the highlight and the ground experience the low point."
 image: aircanadafeatured-min.jpg
