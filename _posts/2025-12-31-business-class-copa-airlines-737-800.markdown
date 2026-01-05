@@ -22,28 +22,28 @@ Unfortunately Copa treats its lounges as a revenue generator, offering access to
 Inside you will find a manned bar with a few seats, a large dining room with seat pairs arranged across a table, and an "outdoor" patio area that overlooks the terminal below (and is also exposed to the associated noise).  There's also a small media room with televisions and comfortable chairs, a rest room with not-quite-fully-flat seats, and a children's room.  
 
 <div class="centered-block">
-<img src="/assets/img/copa2.JPG" alt="Seating options in the Copa Club.">
+<img src="/assets/img/copa2.jpg" alt="Seating options in the Copa Club.">
 <p>The Christmas decorations were still up when I visited, and many staff were sporting blue Santa hats.</p>
 </div>
 
 In the past this lounge has had abysmal food offerings: the last time I visited two years ago, the only food options were tiny cold sandwiches and bar snacks.  Thankfully Copa has increased its standards, and while the selection wasn't great, there was at least hot food on offer when I visited: dinner service included rice, chicken, potatoes, and vegetables in sauce, along with a few different dessert squares.
 
 <div class="centered-block">
-<img src="/assets/img/copa3.JPG" alt="Hot food options in the Copa Club: chicken, potato, rice, and vegetables.">
+<img src="/assets/img/copa3.jpg" alt="Hot food options in the Copa Club: chicken, potato, rice, and vegetables.">
 <p>Not the most generous selection, but a huge improvement over the finger sandwiches Copa used to serve for "dinner".</p>
 </div>
 
 Aside from the lack of food and the crowding, the other major issue with my last visit was horrible ventilation in the shower suites.  This, unfortunately, hasn't changed: I knew from last time that a hot shower would leave the room steamy and me sweaty, rather defeating the point.  Even with a room-temperature shower there was noticeable condensation throughout the room after about five minutes.  This is an amateur oversight in design.  
 
 <div class="centered-block">
-<img src="/assets/img/copa4.JPG" alt="Shower suite in the Copa Club.">
+<img src="/assets/img/copa4.jpg" alt="Shower suite in the Copa Club.">
 <p>A nice place to freshen up...unless you happen to enjoy hot showers.</p>
 </div>
 
 Nevertheless, after having been in airports or on planes for over 12 hours by this point I appreciated the chance to freshen up.  Copa limits its shower access to passengers with an onward flight with a scheduled time of four hours or more, which excludes a sizeable chunk of its route network.  As a result for each of the three times that I've used these showers, I've never had to wait more than a few minutes.  There's a small desk to the left immediately after entering the lounge: reserve a shower suite here, and your name will be called over the tannoy when it's ready.
 
 <div class="centered-block">
-<img src="/assets/img/copa5.JPG" alt="Panamanian Balboa beer sitting on a table in the Copa Club.">
+<img src="/assets/img/copa5.jpg" alt="Panamanian Balboa beer sitting on a table in the Copa Club.">
 <p>After showering and eating, I had only a few minutes to relax before the walk over to T1.</p>
 </div>
 
@@ -60,7 +60,7 @@ Business class passengers boarded in group one, immediately after pre-boarders. 
 ## Seat and Entertainment
 
 <div class="centered-block">
-<img src="/assets/img/copa6.JPG" alt="Business class seats on a Copa Airlines 737-800.">
+<img src="/assets/img/copa6.jpg" alt="Business class seats on a Copa Airlines 737-800.">
 <p>Seats were wide and comfortable, with ample legroom.</p>
 </div>
 
@@ -81,7 +81,7 @@ There is a small storage cubby next to each seat, perfect for phones and passpor
 Copa has "upgraded" some of their business class seats to remove entertainment screens, previously found in the armrest.  In theory entertainment can instead be streamed to your personal device, with a device holder folding down from the seatback in front of you.  In practice, this did not work at all on my flight…instead, you can enjoy a rare printed in-flight magazine, available at each seat.
 
 <div class="centered-block">
-<img src="/assets/img/copa9.JPG" alt="Panorama, the in-flight magazine of Copa Airlines.">
+<img src="/assets/img/copa9.jpg" alt="Panorama, the in-flight magazine of Copa Airlines.">
 <p>No entertainment, but a physical in-flight magazine (with route map) is always appreciated.</p>
 </div>
 
@@ -90,7 +90,7 @@ Copa has "upgraded" some of their business class seats to remove entertainment s
 No pre-departure beverage service was offered, despite this being a light load (only 7/16 seats were occupied in business class).  The flight attendant serving the forward cabin introduced herself to each passenger prior to pushback, and took meal orders.  Copa does not offer pre-ordering, and there were only two options on tonight's flight.  I went for the beef rice with fried plantain, which came with a garden salad with choice of Italian or caesar dressing.
 
 <div class="centered-block">
-<img src="/assets/img/copa10.JPG" alt="Glass of Balboa beer, water, and ramekin of nuts resting on an armrest drink holder.">
+<img src="/assets/img/copa10.jpg" alt="Glass of Balboa beer, water, and ramekin of nuts resting on an armrest drink holder.">
 <p>There was one drink service for both the warm nuts and dinner.</p>
 </div>
 
@@ -116,6 +116,6 @@ During pre-landing safety checks the business class flight attendant personally 
 
 ## Cost and Final Thoughts
 
-I paid $641 CAD for my three-leg trip in business class from Toronto to Georgetown, including my earlier flight on an Air Canada A220 and this flight with Copa.  Considering Copa wanted nearly $1,100 for the one-way flight between Panama City and Georgetown alone, I thought that was pretty good value.  I earned over 7,000 Aeroplan miles for this itinerary, with Copa flights in business class earning 125% of distance flown; the value of those miles made this roundabout journey cheaper, and much more comfortable, than flying direct in economy.
+I paid $641 CAD for my three-leg trip in business class from Toronto to Georgetown: <a href="https://ratherbeexploring.github.io/blog/business-class-on-air-canadas-a220/" target="_blank" rel="noopener noreferrer">from Toronto to Houston with Air Canada</a>, onwards to Panama City with United, and then this flight with Copa.  Considering Copa wanted nearly $1,100 for the one-way flight between Panama City and Georgetown alone, I thought that was pretty good value.  I earned over 7,000 Aeroplan miles for this itinerary, with Copa flights in business class earning 125% of distance flown; the value of those miles made this roundabout journey cheaper, and much more comfortable, than flying direct in economy.
 
 This was a decent flight from Copa.  The lack of IFE was a letdown, but it's nice to see Copa investing a bit more into its flagship lounge food offerings.  I would have no hesitation in flying with Copa again.
