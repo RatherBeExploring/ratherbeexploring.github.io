@@ -45,7 +45,7 @@ The bus will drop you off right outside the port.
 
 ### What is the schedule?
 
-The bus from Paramaribo left at **8 a.m.** exactly, and the return from Atjoni left at **11:30 a.m.** exactly.  There are other busses, however these two line up perfectly with the riverboats.  Busses run every day including Sunday, despite what the minibus drivers (who wanted $500 for the same route) tried to say.
+The bus from Paramaribo left at **8 a.m.** exactly, and the return from Atjoni left at **11:30 a.m.** exactly.  On both trips the bus was waiting over an hour before departure: you can reserve a seat by placing something (I used a plastic bag) on it.  There are other busses, however these two line up perfectly with the riverboats.  Busses run every day including Sunday, despite what the minibus drivers (who wanted $500 for the same route) tried to say.
 
 ### How long does it take?
 
