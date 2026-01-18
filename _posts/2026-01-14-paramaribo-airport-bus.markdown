@@ -6,7 +6,7 @@ description: "Yes, there is a public bus to and from the airport, and yes, it's 
 image: surinamefeatured.jpg
 ---
 
-<p class="intro"><span class="dropcap">J</span>ohan Adolf Pengel International Airport, the main international gateway to Suriname, is nowhere near Paramaribo, the city it serves.  This leads to expensive taxi fares: <strong>$50 USD</strong> one-way, or <strong>$20-$30 USD</strong> one-way for a shared ride (which is what I did on arrival).  There is another option: regular, relatively reliable public busses run between downtown Paramaribo and the airport, taking under two hours each way and costing just a few dollars.  Here's what I wished I had known before making the trip.</p>
+<p class="intro"><span class="dropcap">J</span>ohan Adolf Pengel International Airport, the main international gateway to Suriname, is nowhere near Paramaribo, the city it serves.  This leads to expensive taxi fares: <strong>$50 USD</strong> one-way, or <strong>$20-$30 USD</strong> one-way for a shared ride (which is what I did on arrival).  There is another option: public busses run between downtown Paramaribo and the airport, taking under two hours each way and costing the equivalent of around <strong>$1 USD</strong>.  Here's what I wished I had known before making the trip:</p>
 
 ### Where is the bus stop at the airport?
 
@@ -19,11 +19,7 @@ Busses **do not** enter the airport itself.  Instead, you must walk out to the m
 
 ### What about in Paramaribo?
 
-Busses leave from the **main bus terminal** between *Heiligenweg* and *Knuffelsgracht*.  There will be dozens of busses there, each one displaying a sign in the windshield with their final destination: look for the one showing **Zanderij**.
-
-### What is the schedule?
-
-**It varies**.  My taxi driver told me bus drivers, who are private contractors paid by the government, had been on strike recently, and that services are regularly changed.  There is a small office manned by staff from *Nationaal Vervoer Bedrijf*, the government transportation agency, at the bus terminal in Paramaribo: ask there when the next bus leaves.  Mine left at **1 p.m.**, and you should get there at least two hours before you want to leave.  Once you have a confirmed departure time, there are plenty of nice restaurants, bars, and parks along *Waterside Street* to wait.
+Busses leave from the **main bus terminal** between *Heiligenweg* and *Knuffelsgracht*.  There will be dozens of busses there, each one displaying a sign in the windshield with their final destination: look for the one showing **Zanderij**.  There is a small office manned by staff from *Nationaal Vervoer Bedrijf*, the government transportation agency, at the bus terminal: ask there when the next bus leaves (mine left promptly at 1 p.m.)
 
 ### How do I get on?
 
@@ -31,7 +27,7 @@ From the airport, wave the driver down.  From Paramaribo, just climb aboard once
 
 ### How do I get off?
 
-From Paramaribo, the terminus **is not** the airport: you will need to let the driver know where you want to get off (just shout as you approach the airport).  This also applies if you want to disembark before the bus terminal in Paramaribo: call out as the driver is approaching where you want to get off, and the bus will stop.
+From Paramaribo, the terminus **is not** the airport and busses will not necessarily stop near there: you will need to let the driver know where you want to get off (just shout as you approach the airport).  This also applies if you want to disembark before the bus terminal in Paramaribo: call out as the driver is approaching where you want to get off, and the bus will stop.
 
 ### What is the fare?
 
