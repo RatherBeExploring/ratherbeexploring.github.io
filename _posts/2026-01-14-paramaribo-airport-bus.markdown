@@ -6,7 +6,7 @@ description: "Yes, there is a public bus to and from the airport, and yes, it's 
 image: surinamefeatured.jpg
 ---
 
-<p class="intro"><span class="dropcap">J</span>ohan Adolf Pengel International Airport, the main international gateway to Suriname, is nowhere near Paramaribo, the city it serves.  This leads to expensive taxi fares: **$50 USD** one-way, or **$20-$30 USD** one-way for a shared ride (which is what I did on arrival).  There is another option: regular, relatively reliable public busses run between downtown Paramaribo and the airport, taking under two hours each way and costing just a few dollars.  Here's what I wished I had known before making the trip.</p>
+<p class="intro"><span class="dropcap">J</span>ohan Adolf Pengel International Airport, the main international gateway to Suriname, is nowhere near Paramaribo, the city it serves.  This leads to expensive taxi fares: **\$50 USD** one-way, or **\$20-$30 USD** one-way for a shared ride (which is what I did on arrival).  There is another option: regular, relatively reliable public busses run between downtown Paramaribo and the airport, taking under two hours each way and costing just a few dollars.  Here's what I wished I had known before making the trip.</p>
 
 ### Where is the bus stop at the airport?
 
