@@ -6,7 +6,7 @@ description: "Sleeper busses are a common, economical way to make mid- to long-d
 image: jamjoyfeatured.jpg
 ---
 
-### Introduction
+## Introduction
 
 Sleeper busses are to Brazil what sleeper trains are to Europe: convenient, cost-effective transportation, allowing you to combine the cost of a night's lodging with the cost of transportation.  Dozens of major operators, each with their own regional strongholds, compete for passengers on both cost and comfort.  As a Canadian, long-distance busses conjure up images of cramped seats, lunatic seatmates, and horrible service.  The reality in Brazil is quite different: while there were some letdowns, my nearly-600 kilometre journey between the capital cities of Pará and Maranhão was quick, affordable, and relatively comfortable.  Read on to see what you can expect on a Brazilian sleeper bus.
 
@@ -15,7 +15,7 @@ Sleeper busses are to Brazil what sleeper trains are to Europe: convenient, cost
 <p>Our chariot for today's long-distance ride.</p>
 </div>
 
-### Tickets and Boarding
+## Tickets and Boarding
 
 Depending on the company, sleeper bus ticket sales usually open 30-45 days in advance.  I booked my ticket exactly 30 days ahead of departure, and had my choice of seats.  Booking domestic travel in Brazil can be tricky: you often need a Brazilian tax identifier (CPF) not available to tourists, foreign credit cards are not always accepted, and even the mandatory address fields when booking domestic tickets refuse to allow non-Brazilian addresses.  I have been finding ways around these (a fake but valid CPF is invaluable), but thankfully, Jamjoy's website was easy to use and foreigner-friendly: I was able to use my passport and Canadian contact information with no problems.
 
@@ -37,7 +37,7 @@ My leito ticket, including seat reservation, cost R$270, or just over $50 USD.  
 
 Any suitcases will go in the baggage compartment, which you will not be able to access.  You hand your bag(s) to the driver or assistant and receive a slip of paper in return, with a number corresponding to a sticker placed on your bag: you will need this slip to claim your baggage on arrival.
 
-### Seat and Cabin
+## Seat and Cabin
 
 On my bus, semi-leito occupied the entire upper level while leito occupied most of the lower level, along with the washroom and driver's compartment.  There were only nine leito seats, and we were cocooned in a well-air-conditioned cabin with a closing door separating it from the washroom and stairwell.
 
@@ -71,7 +71,7 @@ There was one washroom aboard, with toilet paper provided but no soap (neither o
 
 At the back of the leito cabin, conveniently right next to my seat, is a cooler with complimentary cups of water.  You are also welcome to place your own food and drink items in there.
 
-### The Journey
+## The Journey
 
 There were many vendors selling food, drinks, and other travel necessities at Belém bus station.  Vendors will also be found at intermediate stations along the way, and will sometimes even climb aboard the bus to sell directly at your seat.
 
@@ -102,7 +102,7 @@ Our second stop came just after 7 a.m. at another roadside restaurant, *Churrasc
 
 Drivers honk when they are ready to leave, after 20-30 minutes usually.  They do a headcount before leaving, so you won't be left behind.  Drivers get a small kickback to stop at certain restaurants, so they're incentivised to give passengers enough time to eat without being overly rushed.
 
-### Sleep
+## Sleep
 
 This was my big question going in: would I arrive rested, or regretful?  I cannot sleep sitting upright, no matter how tired I am, but managed a somewhat-restless seven-hours of sleep on this trip.
 
@@ -119,7 +119,7 @@ South America is not known for quiet and respectful transit, so I was pleasantly
 
 There was an infrared security camera monitoring the cabin…whether it worked or not I don't know, but its presence was reassuring.  I took my valuables with me when I got off the bus at comfort stops, but wasn't worried leaving them next to me overnight.
 
-### Would I Do It Again?
+## Would I Do It Again?
 
 **Absolutely**.  We arrived early at 9:22 a.m. and I felt surprisingly well-rested.  Many bus stations across Brazil, São Luís included, offer showers either for free or for the equivalent of a few dollars, meaning you get both principal benefits of a hotel room: sleep and shower.
 
@@ -130,7 +130,7 @@ There was an infrared security camera monitoring the cabin…whether it worked o
 
 The value is unbeatable.  The cheapest flight on this route is offered by Azul for around R$450, booked a few months in advance.  Jamjoy will transport you for R$270, and unlike the flight (which rises exponentially in value closer to departure), this price does not change.  Add the savings of a mid-range hotel at R$300, and you're saving the equivalent of nearly $100 USD—which goes a heckuva long way in Brazil.
 
-### Top Tips
+## Top Tips
 
 * **Book Early**:if you know your travel dates, there is no incentive to wait.  While seats are often available even the day of departure, the most comfortable (single leito) seats can and do sell out.
 * **Pack smart**: bring everything you will need in a small day bag.  Something to use as a blanket and/or pillow, snacks, charger, valuables, headphones.
