@@ -6,9 +6,7 @@ description: "Sleeper busses are a common, economical way to make mid- to long-d
 image: jamjoyfeatured.jpg
 ---
 
-## Introduction
-
-Sleeper busses are to Brazil what sleeper trains are to Europe: convenient, cost-effective transportation, allowing you to combine the cost of a night's lodging with the cost of transportation.  Dozens of major operators, each with their own regional strongholds, compete for passengers on both cost and comfort.  As a Canadian, long-distance busses conjure up images of cramped seats, lunatic seatmates, and horrible service.  The reality in Brazil is quite different: while there were some letdowns, my nearly-600 kilometre journey between the capital cities of Pará and Maranhão was quick, affordable, and relatively comfortable.  Read on to see what you can expect on a Brazilian sleeper bus.
+<p class="intro"><span class="dropcap">S</span>leeper busses are to Brazil what sleeper trains are to Europe: convenient, cost-effective transportation, allowing you to combine the cost of a night's lodging with the cost of transportation.  Dozens of major operators, each with their own regional strongholds, compete for passengers on both cost and comfort.  While there were some letdowns, my nearly-600 kilometre journey between the capital cities of Pará and Maranhão was quick, affordable, and relatively comfortable.  Read on to see what you can expect on a Brazilian sleeper bus.</p>
 
 <div class="centered-block">
 <img src="/assets/img/jamjoy1.jpg" alt="Jamjoy bus waiting at a platform in Belém.">
