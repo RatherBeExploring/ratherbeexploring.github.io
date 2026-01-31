@@ -6,7 +6,7 @@ description: "Sleeper busses are a common, economical way to make mid- to long-d
 image: jamjoyfeatured.jpg
 ---
 
-<p class="intro"><span class="dropcap">S</span>leeper busses are to Brazil what sleeper trains are to Europe: convenient, cost-effective transportation, allowing you to combine the cost of a night's lodging with the cost of transportation.  Dozens of major operators, each with their own regional strongholds, compete for passengers on both cost and comfort.  While there were some letdowns, my nearly-600 kilometre journey between the capital cities of Pará and Maranhão was quick, affordable, and relatively comfortable.  Read on to see what you can expect on a Brazilian sleeper bus.</p>
+<p class="intro"><span class="dropcap">S</span>leeper busses are to Brazil what sleeper trains are to Europe: convenient, economical transportation, allowing you to combine the cost of a night's lodging with the cost of transportation.  Dozens of major operators, each with their own regional strongholds, compete for passengers on both cost and comfort.  While there were some letdowns, my nearly-600 kilometre journey between the capital cities of Pará and Maranhão was quick, affordable, and relatively comfortable.  Read on to see what you can expect on a Brazilian sleeper bus.</p>
 
 <div class="centered-block">
 <img src="/assets/img/jamjoy1.jpg" alt="Jamjoy bus waiting at a platform in Belém.">
@@ -15,15 +15,15 @@ image: jamjoyfeatured.jpg
 
 ## Tickets and Boarding
 
-Depending on the company, sleeper bus ticket sales usually open 30-45 days in advance.  I booked my ticket exactly 30 days ahead of departure, and had my choice of seats.  Booking domestic travel in Brazil can be tricky: you often need a Brazilian tax identifier (CPF) not available to tourists, foreign credit cards are not always accepted, and even the mandatory address fields when booking domestic tickets refuse to allow non-Brazilian addresses.  I have been finding ways around these (a fake but valid CPF is invaluable), but thankfully, Jamjoy's website was easy to use and foreigner-friendly: I was able to use my passport and Canadian contact information with no problems.
+Depending on the company, sleeper bus ticket sales usually open 30-45 days in advance.  I booked my ticket exactly 30 days ahead of departure, and had my choice of seats.  Booking domestic travel in Brazil can be tricky: you often need a Brazilian tax identifier (CPF) not available to tourists, foreign credit cards are not always accepted, and even the mandatory address fields when booking domestic tickets sometimes refuse to allow non-Brazilian addresses.  I have been finding ways around these, but thankfully Jamjoy's website was easy to use and foreigner-friendly: I was able to use my passport and Canadian contact information with no problems.
 
-<blockquote>Booking domestic travel within Brazil is not always easy for visitors, but Jamjoy made the process surprisingly easy.</blockquote>
+<blockquote>Booking domestic travel within Brazil is not always easy for visitors, but Jamjoy made the process surprisingly simple.</blockquote>
 
-There are two common types of "seats" on sleeper busses: "semi-leito" (literally: semi-bed) and "leito".  The cost difference is often minimal, but the comfort difference is extreme: semi-leito seats are closer to a seat than a bed, offering generous recline but you will still be sitting mostly upright all night.  On my bus, semi-leito was arranged 2-2 whereas leito was 2-1, offering a major difference in privacy as well.
+There are two common types of seats on sleeper busses: "semi-leito" (literally: semi-bed) and "leito".  The cost difference is often minimal, but the comfort difference is extreme: semi-leito seats are closer to a seat than a bed, offering generous recline but you will still be sitting mostly upright all night.  On my bus, semi-leito was arranged 2-2 whereas leito was 2-1, offering a major difference in privacy as well.
 
 <div class="centered-block">
 <img src="/assets/img/jamjoy2.jpg" alt="The interior of Belém's bus terminal.">
-<p>Belém bus station.  Not somewhere you'd want to, or need to spend time: showing up 15-30 minutes early is perfectly fine.</p>
+<p>Belém bus station.  Not somewhere you'd want to, or need to spend time: showing up 15-30 minutes before departure is perfectly fine.</p>
 </div>
 
 My leito ticket, including seat reservation, cost R$270, or just over $50 USD.  At the terminal you trade your printed reservation confirmation for an actual ticket, which grants you access to the platforms.  Look for the booth(s) associated with your bus operator.  I got to the bus station only 15 minutes before departure, which was plenty of time: I was among the last to board, but still seated and settled in more than 10 minutes before departure.  
@@ -37,7 +37,7 @@ Any suitcases will go in the baggage compartment, which you will not be able to 
 
 ## Seat and Cabin
 
-On my bus, semi-leito occupied the entire upper level while leito occupied most of the lower level, along with the washroom and driver's compartment.  There were only nine leito seats, and we were cocooned in a well-air-conditioned cabin with a closing door separating it from the washroom and stairwell.
+On my bus, semi-leito occupied the entire upper level while leito occupied the lower level, along with the washroom and driver's compartment.  There were only nine leito seats, and we were cocooned in a well-air-conditioned cabin with a closing door separating it from the washroom and stairwell.
 
 <div class="centered-block">
 <img src="/assets/img/jamjoy4.jpg" alt="Jamjoy leito seat in the upright position, showing plush blue padding.">
@@ -67,7 +67,7 @@ There was one washroom aboard, with toilet paper provided but no soap (neither o
 <p>Free water is available for leito passengers from a cooler at the back of the cabin.</p>
 </div>
 
-At the back of the leito cabin, conveniently right next to my seat, is a cooler with complimentary cups of water.  You are also welcome to place your own food and drink items in there.
+At the back of the leito cabin, conveniently right next to my seat, was a cooler with complimentary cups of water.  You are also welcome to place your own food and drink items in there.
 
 ## The Journey
 
@@ -75,7 +75,7 @@ There were many vendors selling food, drinks, and other travel necessities at Be
 
 <div class="centered-block">
 <img src="/assets/img/jamjoy10.jpg" alt="A line of parked busses outside a comfort stop.">
-<p>You get a sense of just how well-connected Brazil is by bus reading the destination signs outside a rest stop.</p>
+<p>Eyes on the road.</p>
 </div>
 
 We left ten minutes late, at 6:40 p.m.  Note that Jamjoy's website shows two busses, one leaving at 6:30 and the other at 6:31: these are the same bus, just for semi-leito and leito ticket sales.  Before departure the driver provided a briefing in Portuguese.
@@ -84,7 +84,7 @@ We left ten minutes late, at 6:40 p.m.  Note that Jamjoy's website shows two bus
 
 Our first stop, Ananindeua, came roughly 25 minutes into the trip.  Here, the ninth and final leito passenger boarded to complete our sold-out cabin.
 
-We made two comfort stops en route.  First, we stopped at 9 p.m. at a roadside restaurant, *Restaurante Padre Cicero*, for dinner.  Prices were higher than supermarkets, but not outrageously so: a packet of cookies was R$10, bottle of water R$6, and hot food was available buffet-style by the kilogram.  I had brought food with me on board so only got a snack here.  This was a popular stop, and I saw one bus heading all the way from Belém to Goiania—a mammoth 29-hour journey, not including stops.
+We made two comfort stops en route.  First, we stopped at 9 p.m. at a roadside restaurant, *Restaurante Padre Cicero*, for dinner.  Drivers get a small kickback to stop at certain restaurants and prices were higher than supermarkets, but not outrageously so: a packet of cookies was R$10, bottle of water R$6, and hot food was available buffet-style by the kilogram.  I had brought food with me on board so only got a snack here.  This was a popular stop, and I saw one bus heading all the way from Belém to Goiania—a mammoth 29-hour journey, not including stops.
 
 <div class="centered-block">
 <img src="/assets/img/jamjoy8.jpg" alt="Interior of Restaurante Padre Cicero showing tables, chairs, and a buffet line.">
@@ -98,7 +98,7 @@ Our second stop came just after 7 a.m. at another roadside restaurant, *Churrasc
 <p>Our second stop, 12 hours in, was timed for breakfast.</p>
 </div>
 
-Drivers honk when they are ready to leave, after 20-30 minutes usually.  They do a headcount before leaving, so you won't be left behind.  Drivers get a small kickback to stop at certain restaurants, so they're incentivised to give passengers enough time to eat without being overly rushed.
+Drivers honk when they are ready to leave, after 20-30 minutes usually.  They do a headcount before leaving, so you won't be left behind.
 
 ## Sleep
 
@@ -111,7 +111,7 @@ The bed, despite being sold as "leito", reclined to only 140 degrees or so: clos
 <p>The seat in "bed" mode.</p>
 </div>
 
-South America is not known for quiet and respectful transit, so I was pleasantly surprised at the lack of music or TikTok filling the cabin throughout the night.  My fellow passengers are among the pioneers of headphone adoption on the continent, and aside from a few short videos the cabin was quiet over the full journey.  The air conditioning unit was loud, but this turned out to be a positive: it was a constant source of background noise, drowning out the undulations of the road and I actually missed it when it periodically turned off.
+South America is not known for quiet and respectful transit, so I was pleasantly surprised at the lack of music or AI-generated TikTok drivel filling the cabin throughout the night.  The air conditioning unit was loud, but this turned out to be a positive: it was a constant source of background noise, drowning out the undulations of the road and I actually missed it when it periodically turned off.
 
 <blockquote>I got lucky with the lack of music and noise on this bus...plan to not be as fortunate, and bring ear plugs and/or noise-cancelling headphones.</blockquote>
 
@@ -119,18 +119,18 @@ There was an infrared security camera monitoring the cabin…whether it worked o
 
 ## Would I Do It Again?
 
-**Absolutely**.  We arrived early at 9:22 a.m. and I felt surprisingly well-rested.  Many bus stations across Brazil, São Luís included, offer showers either for free or for the equivalent of a few dollars, meaning you get both principal benefits of a hotel room: sleep and shower.
+**Absolutely**.  We arrived early at 9:22 a.m. and I felt surprisingly well-rested.  Many bus stations across Brazil, São Luís included, offer showers either for free or for the equivalent of a few dollars, meaning you get both principal benefits of a hotel room when travelling by bus: sleep and a shower.
 
 <div class="centered-block">
 <img src="/assets/img/jamjoy12.jpg" alt="Jamjoy bus parked at a platform in São Luís.">
 <p>We arrived early into a rainy São Luís.  The driver reversed in so passengers wouldn't get drenched waiting for their bags.</p>
 </div>
 
-The value is unbeatable.  The cheapest flight on this route is offered by Azul for around R$450, booked a few months in advance.  Jamjoy will transport you for R$270, and unlike the flight (which rises exponentially in value closer to departure), this price does not change.  Add the savings of a mid-range hotel at R$300, and you're saving the equivalent of nearly $100 USD—which goes a heckuva long way in Brazil.
+The value is unbeatable.  The cheapest flight on this route is offered by Azul for around R$450, booked a few months in advance.  Jamjoy will transport you for R$270, and unlike the flight (which rises exponentially in cost closer to departure), this price does not change.  Add the savings of a mid-range hotel at R$300, and you're saving the equivalent of nearly $100 USD—which goes a heckuva long way in Brazil.
 
 ## Top Tips
 
-* **Book Early**:if you know your travel dates, there is no incentive to wait.  While seats are often available even the day of departure, the most comfortable (single leito) seats can and do sell out.
+* **Book Early**: if you know your travel dates, there is no incentive to wait.  While seats are often available even on the day of departure, the most desirable (single leito) seats can and do sell out.
 * **Pack smart**: bring everything you will need in a small day bag.  Something to use as a blanket and/or pillow, snacks, charger, valuables, headphones.
 * **Download content**: don't expect WiFi or cell service.
 * **Stretch your legs**: 12+ hours is a very long time to be sitting down.  While you shouldn't wander too far, don't worry about the bus darting off the second you step off: when you see everyone else getting off at a comfort stop, it's safe to assume you can as well.
