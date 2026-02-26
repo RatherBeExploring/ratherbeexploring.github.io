@@ -18,7 +18,7 @@ Here's what it's like to cover 905 kilometres across nearly 14 hours in the most
 
 Ticket sales open 45 days before departure, with sales possible online from anywhere in the world.  While you can purchase a ticket in-person up to the day of departure, this isn't recommended: this train is popular, and does sell out especially in *executivo* class.
 
-Vale offers two classes of service: econômico and *executivo*, or economy and executive class.  An economy ticket for the full journey costs R$87, or about $17 USD.  Executive class is R$125, or around $24 USD.  For an extra $7 you get more space, but that's it: the on-board service is identical, and *executivo* customers get no included food or drink.  The benefit of more comfortable seats, and especially not having a seatmate if you're travelling solo, is absolutely worth this small extra expense.
+Vale offers two classes of service: *econômico* and *executivo*, or economy and executive class.  An economy ticket for the full journey costs R$87, or about $17 USD.  Executive class is R$125, or around $24 USD.  For an extra $7 you get more space, but that's it: the on-board service is identical, and *executivo* customers get no included food or drink.  The benefit of more comfortable seats, and especially not having a seatmate if you're travelling solo, is absolutely worth this small extra expense.
 
 <div class="centered-block">
 <img src="/assets/img/vale1.jpg" alt="Pink facade of the Vale passenger terminal in Belo Horizonte.">
@@ -33,7 +33,7 @@ Note that Vitória station is not called "Vitória" when booking: look for "Pedr
 
 In theory, foreigners do not need the ubiquitous CPF (a sort of Brazilian social security number) to book online: when purchasing the ticket, you can check a "foreigner" box and enter your passport instead.  In practice however you still need a CPF, like for most everything else in Brazil.  In order to complete your online purchase, you will need an account.  In order to create that account you will need…a CPF.  This wasn't a big deal, I just used a fake one as I have been doing for months travelling across Brazil without issue.  I also entered a fake Brazilian address, this field being mandatory to complete your purchase.  The transaction went through using my international card, so Vale's online portal isn't completely hopeless.  Just, let's say, user-unfriendly.
 
-<blockquote>Top tip: for the most comfortable journey, book a solo seat in an *executivo* car close to the centre of the train.</blockquote>
+<blockquote>Top tip: for the most comfortable journey, book a solo seat in an <i>executivo</i> car close to the centre of the train.</blockquote>
 
 You book both your carriage and seat when purchasing a ticket.  *Executivo* class is arranged 2-1, and solo travellers obviously will want a solo seat.  I chose lucky seat 13 in lucky carriage 13, which was in the second passenger compartment behind a staff car and the locomotive.  There was, for the first hour or so, a noticeable diesel smell coming, presumably, from the locomotive, so I would recommend booking a seat in a carriage further back from the locomotive.  Our train had four *executivo* cars: 11 was closest to the centre of the train, 14 closest to the locomotive.  The only downside to booking a seat in a car closer to the train's centre is this is also closer to the restaurant cars, so you will have a steady stream of passers-by.
 
@@ -53,7 +53,7 @@ We left at 07:00 to the minute, so technically we did depart on time…but befor
 Each executive seat has a large, metal tray table that pulls up and out from the seat in front of you, with a mesh pocket below this.  There is a footrest that folds up and out of the way (which is where I left it for most of the trip).  Each seat has a 220 volt outlet, headphone jack for the in-train entertainment (more on that below), and a reading light located above the window.  Overhead racks are available for anything up to a carry-on, with storage areas at both ends of each carriage for larger bags.
 
 <div class="centered-block">
-<img src="/assets/img/vale3.jpg" alt="Image showing the *executivo* solo seat aboard Vale's passenger trains, with well-padded blue upholestery.">
+<img src="/assets/img/vale3.jpg" alt="Image showing the executivo solo seat aboard Vale's passenger trains, with well-padded blue upholestery.">
 <p>Comfortable, as it has to be for such a long journey.</p>
 </div>
 
@@ -63,7 +63,7 @@ Seats are located in a solid metal frame.  They recline by moving the seat botto
 
 <div class="centered-block">
 <img src="/assets/img/vale4.jpg" alt="Interior of an executive class carriage, showing seating arranged 2-1 with luggage storage overhead.">
-<p>Our train had four *executivo* carriages identical to this one: 2-1 seating, overhead luggage racks, and storage areas for larger bags.</p>
+<p>Our train had four executivo carriages identical to this one: 2-1 seating, overhead luggage racks, and storage areas for larger bags.</p>
 </div>
 
 Still, I found the seat to be comfortable, even after 13.5 hours.  Having one of the solo seats and being able to stand up, stretch, and walk regularly without climbing over a seatmate was part of the reason for this, though the seat itself was well padded.
@@ -95,7 +95,7 @@ There are, unfortunately, no fresh air stops at any point along the journey: eve
 
 <div class="centered-block">
 <img src="/assets/img/vale8.jpg" alt="Dense tree cover atop hills in Minas Gerais.">
-<p>It wasn't actually that dark outside, the outside of the train was just filthy.</p>
+<p>It wasn't actually that dark in the middle of the day, the outside of the train was just filthy.</p>
 </div>
 
 ## Food
@@ -114,12 +114,12 @@ Staff regularly pass through the train with a trolley.  You can buy drinks and s
     <button class="gallery-nav prev" aria-label="Previous">&#10094;</button>
 
     <div class="gallery-slide active">
-      <img src="vale10.jpg" alt="Menu aboard the Vitória-Minas Railway.">
+      <img src="/assets/img/vale10.jpg" alt="Menu aboard the Vitória-Minas Railway.">
       <div class="caption">Menu aboard the Vitória-Minas Railway.</div>
     </div>
 
     <div class="gallery-slide">
-      <img src="vale11.jpg" alt="Menu aboard the Vitória-Minas Railway.">
+      <img src="/assets/img/vale11.jpg" alt="Menu aboard the Vitória-Minas Railway.">
       <div class="caption">Menu aboard the Vitória-Minas Railway.</div>
     </div>
 
