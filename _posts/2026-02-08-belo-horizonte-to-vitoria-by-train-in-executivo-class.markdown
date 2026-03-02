@@ -6,6 +6,8 @@ description: "Brazil's only daily intercity train service is not fast by any str
 image: valefeatured.jpg
 ---
 
+<p class="intro"><span class="dropcap">B</span>razil's only daily intercity train service is not fast by any stretch, but it is affordable, comfortable, and a vital link for the 28 communities it serves.</p>
+
 ## Introduction
 
 Despite having nearly 30,000 kilometres of railroads, in all of Brazil there are only two long-distance passenger train journeys possible: the Carajás Railway, linking Parauapebas with São Luís, and the Vitória-Minas Railway, connecting Belo Horizonte (BH) with Vitória.  Of these, only the latter runs daily, in both directions.  This line is also where you will find Brazil's only overnight train: special night trains ran over the holidays in 2025/26, and saw high demand.
