@@ -16,9 +16,7 @@ The border between Foz do Iguaçu, Brazil and Ciudad del Este, Paraguay is open:
 
 The **International Friendship Bridge** links Foz to CDE, and is open seven days a week.  In CDE the bridge lies at the heart of town, and most hotels are within walking distance.  From Foz you have a few options:
 
-
-
-- **Uber**: The most convenient option, and not terribly expensive.  Expect to pay around **$R15-20** for a ride from *centro* to the border.
+- **Uber**: The most convenient option, and not terribly expensive.  Expect to pay around **R$15-20** for a ride from *centro* to the border.
 
 <div class="centered-block">
 <img src="/assets/img/foz1.jpg" alt="Green and white EasyBus.">
@@ -49,7 +47,7 @@ The **International Friendship Bridge** links Foz to CDE, and is open seven days
 The area around the bridge, on either side, is not pedestrian-friendly: you walk down the median, sometimes on the road.  It feels less safe than it is, drivers know to watch for pedestrians and as long as you pay attention, you'll be fine.
 
 <div class="centered-block">
-<img src="/assets/img/foz5.jpg" alt="Stair case leading to a sign for "migração".">
+<img src="/assets/img/foz5.jpg" alt="Stair case leading to a sign for migração.">
 <p>Look up for the monument...and also for the stairs you'll have to climb.</p>
 </div>
 
