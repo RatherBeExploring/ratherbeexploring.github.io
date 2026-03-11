@@ -27,14 +27,14 @@ The **International Friendship Bridge** links Foz to CDE, and is open seven days
 
 <div class="centered-block">
 <img src="/assets/img/foz2.jpg" alt="Yellow and blue bus from Nuestra Señora de la Asunción.">
-<p>These NSA busses will also get you into Paraguay.  Look for a bus showing Brazilian/Paraguayian flags and/or the word <i>internacional</i> if you're not sure.</p>
+<p>These NSA busses will also get you into Paraguay.  Look for a bus showing Brazilian/Paraguayian flags and/or the word </i>internacional<i> if you're not sure.</p>
 </div>
 
 - **Local Bus**: Fare R$5, cash or credit card are both accepted.  Look for any bus displaying a destination of *Ponte*: this means "bridge", and the bus will pass nearby the Friendship Bridge.  I took route 010, which dropped me about 100 metres from Brazilian immigration.
 
 <div class="centered-block">
 <img src="/assets/img/foz3.jpg" alt="Interior of a local bus in Foz do Iguaçu,showing empty blue and yellow seats.">
-<p>Empty interior of a local bus in Foz.  This is actually line 120 linking <i>centro</i>, the airport, and national park, but...the busses are all similar.</p>
+<p>Empty interior of a local bus in Foz.  This is actually line 120 linking </i>centro<i>, the airport, and national park, but...the busses are all similar.</p>
 </div>
 
 ## Exiting Brazil
