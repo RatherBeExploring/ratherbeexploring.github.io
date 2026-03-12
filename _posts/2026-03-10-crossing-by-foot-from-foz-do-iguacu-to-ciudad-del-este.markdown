@@ -95,7 +95,7 @@ Look for a sign displaying *migraciones*: this is where you get stamped in to Pa
 <p>Through sliding glass doors you will find a sight recognisable the world over: pointless bureaucracy.</p>
 </div>
 
-The Paraguayan side has washrooms, and unlike Brazil you will wait inside, not exposed to the sun (though without air conditioning, it isn't much better).
+The Paraguayan side has washrooms and, unlike Brazil, you will wait inside, not exposed to the sun (though without air conditioning, it isn't much better).
 
 ## Top Tips
 
