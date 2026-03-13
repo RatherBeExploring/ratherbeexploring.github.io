@@ -30,7 +30,7 @@ You can find "guided tours", "panoramic tours", etc. to Itaipú Dam from CDE for
 
 ## Option 1: Modern Electric Busses
 
-In 2024, South Korea donated three modern electric busses to Paraguay.  Three of these busses operate between CDE and Hernandarias today.  These busses are clean, quiet, and comfortable: they are air conditioned, and seats recline and even have cupholders.  Relaxing music is played over the speakers.  It is altogether a lovely way to get around, and better than most public transit in North America or Europe.  The only downside: with just three busses that also need to be charged and maintained, you could be waiting a while.  That's why option two is the more common way to make this trip.
+In 2024, South Korea donated four modern electric busses to Paraguay.  Three of these busses operate between CDE and Hernandarias today.  These busses are clean, quiet, and comfortable: they are air conditioned, and seats recline and even have cupholders.  Relaxing music is played over the speakers.  It is altogether a lovely way to get around, and better than most public transit in North America or Europe.  The only downside: with just three busses that also need to be charged and maintained, you could be waiting a while.  That's why option two is the more common way to make this trip.
 
 <div class="centered-block">
 <img src="/assets/img/itaipu2.jpg" alt="Green electric bus with a passenger boarding, showing destination Hernandarias.">
