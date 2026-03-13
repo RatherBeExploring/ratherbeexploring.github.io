@@ -23,7 +23,7 @@ The **International Friendship Bridge** links Foz to CDE, and is open seven days
 <p>These busses link both Argentina and Brazil and Brazil and Paraguay.</p>
 </div>
 
-- **International Bus**: Green busses from *EasyBus* or yellow, blue, or white busses from *Nuestra Señora de la Asunción* (NSA) run directly from *centro* in Foz across the border and into CDE.  These busses **do not** stop at the border: if you need to get your passport stamped, you will need to ask to be let off, which defeats the point of taking the express bus.  You're better off taking…
+- **International Bus**: Green busses from *EasyBus*, yellow busses from *Expreso Paraguay* (CDN), and multi-coloured busses from *Nuestra Señora de la Asunción* (NSA) run directly from *centro* in Foz across the border and into CDE.  These busses **do not** stop at the border: if you need to get your passport stamped, you will need to ask to be let off, which defeats the point of taking the express bus.  You're better off taking…
 
 <div class="centered-block">
 <img src="/assets/img/foz2.jpg" alt="Yellow and blue bus from Nuestra Señora de la Asunción.">
