@@ -34,7 +34,7 @@ The **International Friendship Bridge** links Foz to CDE, and is open seven days
 
 <div class="centered-block">
 <img src="/assets/img/foz3.jpg" alt="Interior of a local bus in Foz do Iguaçu,showing empty blue and yellow seats.">
-<p>Empty interior of a local bus in Foz.  This is actually line 120 linking centro, the airport, and national park, but...the busses are all similar.</p>
+<p>Empty interior of a local bus in Foz.  This is actually line 120 linking centro, the airport, and national park, but the busses are all similar.</p>
 </div>
 
 ## Exiting Brazil
@@ -51,7 +51,7 @@ The area around the bridge, on either side, is not pedestrian-friendly: you walk
 <p>Look up for the monument...and also for the stairs you'll have to climb.</p>
 </div>
 
-Once you reach the bridge itself, pedestrians are kept separate from cars and lorries the whole way across.  To get stamped out, look up: there is a large monument and Brazilian flag, behind which is the immigration offices.  Follow signs for *migração*, which will lead you up a few flights of stairs (this whole process isn't advisable if you have multiple bags, or mobility issues).  At the top, turn right and you will see a small kiosk.  There are windows on both sides and there are a lot of people simply milling about, waiting for more complex immigration needs to be resolved.  Move forward, present your passport, confirm that you are in fact leaving Brazil for more than just a day trip, and you'll be stamped out.  It took less than a minute for me, once I knew where to go.
+Once you reach the bridge itself, pedestrians are kept separate from cars and lorries the whole way across.  To get stamped out, look up: there is a large monument and Brazilian flag, behind which you'll find the immigration offices.  Follow signs for *migração*, which will lead you up a few flights of stairs (this whole process isn't advisable if you have multiple bags, or mobility issues).  At the top, turn right and you will see a small kiosk.  There are windows on both sides and there are a lot of people simply milling about, waiting for more complex immigration needs to be resolved.  Move forward, present your passport, confirm that you are in fact entering/leaving Brazil for more than just a day trip, and you'll be stamped in or out.  It took less than a minute for me, once I knew where to go.
 
 <div class="centered-block">
 <img src="/assets/img/foz6.jpg" alt="Small roadside kiosk where pedestrians are stamped in and out of Brazil.">
@@ -67,7 +67,7 @@ The Brazilian side has WiFi, washrooms, and a water bottle refill station.
 <p>As long as the sun is facing the right way, you get shade.</p>
 </div>
 
-While both sides of the bridge (keep to the right when crossing into Brazil or Paraguay) are shaded, this cover is only partial: avoid crossing in mid-day, or you will be in for a very hot ten-minute walk.  The sidewalk is in reasonably good condition, by South American standards, and I was able to wheel my carry-on bag most of the time.
+While both sides of the bridge (you'll be walking on the right side in both directions) are shaded, this cover is only partial: avoid crossing in mid-day, or you will be in for a very hot ten-minute walk.  The sidewalk is in reasonably good condition, by South American standards, and I was able to wheel my carry-on bag most of the time.
 
 <div class="centered-block">
 <img src="/assets/img/foz8.jpg" alt="Looking towards Paraguay on the International Friendship Bridge, with the Paraná River below.">
@@ -88,7 +88,7 @@ You get lovely views of the Paraná River, with two viewpoints along the way (un
 <p>Keep walking past the official welcome sign, immigration is about another 25 metres ahead.</p>
 </div>
 
-Look for a sign displaying *migraciones*: this is where you get stamped in to Paraguay.  The Paraguayan side did have a line, but I was through in under five minutes.  Border officials asked how long I would stay and where my first hotel reservation was, but didn't ask for more details when I simply said *Asunción*.
+Look for a sign displaying *migraciones*: this is where you get stamped in to Paraguay.  The Paraguayan side did have a line, but I was through in under five minutes.  Border officials asked how long I would stay and where my first hotel reservation was, but didn't ask for more details when I simply said "Asunción".
 
 <div class="centered-block">
 <img src="/assets/img/foz11.jpg" alt="Sign indicating immigration is to the right.">
@@ -100,5 +100,5 @@ The Paraguayan side has washrooms and, unlike Brazil, you will wait inside, not 
 ## Top Tips
 
 - **Cross Early (or Late)**: While the walk isn't long, it will feel that way in the mid-day sun.  The shade on the bridge crossing from Brazil will leave you exposed until about 2 p.m., and before that you'll be exposed crossing from Paraguay.  It's best to cross by foot early in the morning or late in the afternoon/into the evening.
-- **Pack Light**: You'll have to climb stairs to enter/exit Brazil, and the pedestrian walkway across the Friendship Bridge isn't in perfect shape.  If you have a checked bag, you'll be in for a rough time…better to cross by bus and return for border formalities.
+- **Pack Light**: You'll have to climb stairs to enter/exit Brazil, and the pedestrian walkway across the Friendship Bridge isn't in perfect shape.  If you have one or more large bags, you'll be in for a rough time…better to cross by bus and return for border formalities.
 - **Don't Skip the Stamps**: While it is unusual to be able, encouraged even, to meander on in to another country, this system caters exclusively to day-trippers.  If you wind up flying out of Asunción or Rio with no entry stamp, you risk fines.
