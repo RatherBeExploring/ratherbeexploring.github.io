@@ -45,7 +45,7 @@ Otherwise the Costa Rican side was quick and easy: there was no line and five op
 
 ## Entering Nicaragua
 
-There is a maze of sidewalks and roadways in the no man's land between Costa Rica and Nicaragua: just keep heading in generally the right direction, and the walk between the two immigration buildings should take you about ten minutes with shade intermittently available.  You will be asked for your passport a few times by not-very-official-looking officials: this is normal, and they're just checking for your Costa Rican exit stamp.  The first impression Nicaragua wants to give to visitors is asking for money: a man at the entrance to the immigration building stood up as I approached and said "one dollar".  This is one of three fees you'll have to pay (cash only, USD only, exact change strongly advised in case the officials "run out"), and is essentially state-level panhandling.  You do at least get receipts with printed values, so won't be overcharged.
+There is a maze of sidewalks and roadways in the no man's land between Costa Rica and Nicaragua: just keep heading in generally the right direction, and the walk between the two immigration buildings should take you about ten minutes with shade intermittently available.  You will be asked for your passport a few times by not-very-official-looking officials: this is normal, and they're just checking for your Costa Rican exit stamp.  The first impression Nicaragua wants to give to visitors is asking for money: a man at the entrance to the immigration building stood up as I approached and said "one dollar".  This is one of three fees you'll have to pay (cash only, USD only, exact change strongly advised in case the officials "run out" of small bills), and is essentially state-level panhandling.  You do at least get receipts with printed values, so won't be overcharged if you have exact change.
 
 <div class="centered-block">
 <img src="/assets/img/penas4.jpg" alt="Covered walkway passing transport trucks, leading to Nicaraguan immigration.">
@@ -68,7 +68,7 @@ After passport control all bags are X-rayed and you are into Nicaragua.  It's ab
 
 ## From Peñas Blancas Onwards by School Bus
 
-The bus terminal is roughly 250 metres down the road from the border entrance, on the left.  Taxi drivers outside the border make their presence known, but aren't any more or less pushy than airports and border crossings elsewhere: just say no thanks and keep walking.  Busses leave every half hour or better throughout the day, with frequent services to Managua and less-frequent services to other destinations.  You will also find food, drink, SIM card, and souvenir vendors at the bus station, as well as pay-to-use restrooms.
+The bus terminal is roughly 250 metres down the road from the border entrance, on the left.  Taxi drivers outside the border make their presence known, but aren't any more or less pushy than at airports and border crossings elsewhere: just say no thanks and keep walking.  Busses leave every half hour or better throughout the day, with frequent services to Managua and less-frequent services to other destinations.  You will also find food, drink, SIM card, and souvenir vendors at the bus station, as well as pay-to-use restrooms.
 
 <div class="centered-block">
 <img src="/assets/img/penas7.jpg" alt="A repainted school bus waiting at the Peñas Blancas bus terminal in Nicaragua.">
