@@ -3,7 +3,7 @@ layout: post
 title: "Avianca A320 Business Class Review, SAL to YYZ: Surprisingly Acceptable"
 date: "April 22, 2026"
 description: "Avianca's regional business class product won't blow you away, but it also won't blow your budget.  For the price, the seat, service, and food are…acceptable, nothing more, nothing less."
-image: avianca featured.jpg
+image: aviancafeatured.jpg
 ---
 
 <p class="intro"><span class="dropcap">A</span>vianca business class has a horrible reputation: disparaging it is almost a rite of passage for any travel website.  Honestly though, it's not that bad: it's not that good, but for the price and convenient connections you could do a lot worse (looking at you, WestJet "premium").  You get a hot meal, quirky but comfortable seat, and decent service.  Here's where to set your expectations if you're considering the (usually small) upcharge to fly Avianca regional business class:</p>
