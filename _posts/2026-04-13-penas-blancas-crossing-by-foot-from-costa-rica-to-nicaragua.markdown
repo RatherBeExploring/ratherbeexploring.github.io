@@ -39,7 +39,7 @@ From the bus terminal, follow the pedestrian walkway through multiple layers of 
 <p>The imposing Costa Rican immigration building is hard to miss, but if you somehow manage it you'll be pointed in the right direction by security.</p>
 </div>
 
-You are responsible for paying the land exit ~~cash grab~~ fee: it is $8 US paid online in advance through **Banco BCR**, or $10 paid in cash at the border.  Even though you can reach immigration by simply bypassing this counter, the exit tax is tied to passport numbers and border guards will turn you back if no payment appears when they can your document, as happened to another traveller on my bus.
+You are responsible for paying the land exit ~~cash grab~~ fee: it is $8 US paid online in advance through **Banco BCR**, or $10 paid in cash at the border.  Even though you can reach immigration by simply bypassing this counter, the exit tax is tied to passport numbers and border guards will turn you back if no payment appears when they scan your document, as happened to another traveller on my bus.
 
 Otherwise the Costa Rican side was quick and easy: there was no line and five open counters, and I was through in less than a minute.
 
