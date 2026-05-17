@@ -59,7 +59,7 @@ Each executive seat has a large, metal tray table that pulls up and out from the
 <p>Comfortable, as it has to be for such a long journey.</p>
 </div>
 
-These windows were quite dirty.  This was unfortunate, since the scenery en route is a major draw for those making the trip by rail.  The interior, while kept clean by staff throughout the journey, was well-worn with torn seats and scratched paint.
+The windows were quite dirty.  This was unfortunate, since the scenery en route is a major draw for those making the trip by rail.  The interior, while kept clean by staff throughout the journey, was well-worn with torn seats and scratched paint.
 
 Seats are located in a solid metal frame.  They recline by moving the seat bottom forwards, similar to premium economy on Lufthansa group airlines.  This means that your legroom isn't affected by the person in front reclining their seat, but your knee room is very much affected if you yourself recline.  Legroom isn't great to begin with: I'd estimate it at 32/33 inches with the seat fully upright, less than you'd find on U.S. First or even LATAM premium economy.  This was surprising: usually a major benefit of rail over air travel is much more personal space, since obviously trains are less weight-sensitive than aircraft.  
 
