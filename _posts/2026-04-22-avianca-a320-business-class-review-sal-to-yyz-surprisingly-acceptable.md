@@ -10,7 +10,7 @@ image: aviancafeatured.jpg
 
 ## Introduction
 
-Avianca is struggling with its identity.  Limping along with massive debt from a series of mergers that led to its parent company becoming the second-largest airline group in South America, the Covid shutdowns finally did them in and they went through "bankrupcy-lite" (chapter 11) in 2020.  They emerged from this with a leaner fleet of solely A320 and B787 family aircraft, and cut their business class product within the Americas to follow a low-cost model.  This is still their approach in economy, where you'll find a sub-human 28 inches of pitch, no recline (or "pre-reclined" to use their marketing balderdash), and no included bags on the cheapest fares.
+Avianca is struggling with its identity.  Limping along with massive debt from a series of mergers that led to its parent company becoming the second-largest airline group in South America, the Covid shutdowns finally did them in and they went through "bankruptcy-lite" (chapter 11) in 2020.  They emerged from this with a leaner fleet of solely A320 and B787 family aircraft, and cut their business class product within the Americas to follow a low-cost model.  This is still their approach in economy, where you'll find a sub-human 28 inches of pitch, no recline (or "pre-reclined" to use their marketing balderdash), and no included bags on the cheapest fares.
 
 <div class="centered-block">
 <img src="/assets/img/avianca1.jpg" alt="Lining up for takeoff on runway 07 of El Salvador International Airport.">
@@ -32,7 +32,7 @@ Avianca business class customers have access to a priority check-in lane…but c
 
 In the grand scheme of things, this is a minor point.  But part of the appeal, for me, of business class is forgetting about the incessant nickel-and-diming of modern air travel: you don't need to worry about convoluted baggage rules, seat assignments, downloading an app, or checking in online to avoid a fee for a paper boarding pass.  Your flight leaves at hour X, you show up at the airport at around X minus two, and you're handed a piece of paper that gets you on to a metal tube that brings you home.  That's it.
 
-I spared the poor airport employee this mini-rant, and without being prompted he did complete check-in at the kiosk for me, which I suppose is the next best thing.  But really: the agents are there, how much money is Avianca really saving forcing passengers to line up twice?
+I spared the poor airport employee this mini-rant, and without being prompted he did complete check-in at the kiosk for me, which I suppose is the next best thing.  But really: the agents are there, how much money is Avianca saving by forcing passengers to line up twice?
 
 <blockquote>Paying to have human check-in agents who cannot actually check passengers in is the worst of both worlds.</blockquote>
 
@@ -120,7 +120,7 @@ I commend any airline that tries something new with its seat design, rather than
 
 Business class passengers on an Avianca A320 only get 33 inches of pitch, which is about 3-5 inches less than you would expect in U.S. domestic first, and only an inch or two more than is common in long-haul economy.  At six foot three I could cross my legs only when the seat in front of me was not reclined; when he did put his seat back, the space was tight and as a window seat passenger, if both seats in front of you are reclined getting up is awkward and uncomfortable.
 
-I booked the first row on the short flight from Managua to San Salvador to try it out, and would avoid booking business class if this is the only row available: there are no bulkhead cut-outs from your feet, and the legroom is unacceptably small for a business class product.  Flying to Toronto I was in seat 2A, and very much needed the underseat area in front of me to stretch out.
+I booked the first row on the short flight from Managua to San Salvador to try it out, and would avoid booking business class if this is the only row available: there are no bulkhead cut-outs for your feet, and the legroom is unacceptably small for a business class product.  Flying to Toronto I was in seat 2A, and very much needed the underseat area in front of me to stretch out.
 
 <div class="centered-block">
 <img src="/assets/img/avianca13.jpg" alt="Tray table and device holder that fold down from seats in rows two and three of Avianca business class.">
