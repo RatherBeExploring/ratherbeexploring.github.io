@@ -147,7 +147,7 @@ All of my nine flights with Avianca have been in this seat, either as a premium 
 
 ## In-Flight Entertainment (IFE)
 
-Avianca does not offer on-board WiFi, putting it behind most of its competitors including its primary opponent in the South American market, LATAM.  There are also no IFE screens in either economy or business: instead, entertainment is streamed to your device.  There is usually a basic moving map option, though it never worked on this flight.
+Avianca does not offer on-board WiFi, putting it behind most of its competitors including <a href="https://ratherbeexploring.github.io/blog/latam-premium-economy-review-lima-to-san-jose-eurobiz-in-the-americas/" target="_blank" rel="noopener noreferrer">its primary opponent in the South American market, LATAM</a>.  There are also no IFE screens in either economy or business: instead, entertainment is streamed to your device.  There is usually a basic moving map option, though it never worked on this flight.
 
 <div class="centered-block">
 <img src="/assets/img/avianca16.jpg" alt="Screenshot of the in-flight streaming entertainment on Avianca.">
