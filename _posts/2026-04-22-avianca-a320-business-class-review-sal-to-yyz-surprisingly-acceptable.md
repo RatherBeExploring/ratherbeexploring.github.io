@@ -129,7 +129,7 @@ I booked the first row on the short flight from Managua to San Salvador to try i
 
 Next to each seat you'll find a small storage area, large enough for a book.  Overhead you'll find individual air vents and reading lights.  The first three overhead bins are exclusive to business class, and this was enforced.  The tray table folds down from the seat in front, or from the armrest in the first row.  There is also a small device holder that folds down above the tray table, useful for watching the IFE (more on that below).
 
-A pillow and blanket were waiting at each seat, in a grey cloth bath.  The blanket was thin but comfortable.  This being a daytime flight within the Americas (so not crossing many time zones) I didn't sleep, and I wouldn't relish the prospect of spending a night in this seat.
+A pillow and blanket were waiting at each seat, in a grey cloth bag.  The blanket was thin but comfortable.  This being a daytime flight within the Americas (so not crossing many time zones) I didn't sleep, and I wouldn't relish the prospect of spending a night in this seat.
 
 <div class="centered-block">
 <img src="/assets/img/avianca14.jpg" alt="Thin grey blanket with red Avianca logo, being compressed between a forefinger and thumb.">
