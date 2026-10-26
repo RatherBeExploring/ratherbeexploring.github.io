@@ -3,7 +3,7 @@ layout: post
 title: "Chepe Regional From Chihuahua to Los Mochis"
 date: "September 22, 2026"
 description: "Travelling on the local Chepe Regional offers the same stunning scenery as the more expensive Chepe Express, at a fraction of the price."
-image: chepefeatured.jpg
+image: chepe_featured.jpg
 ---
 <p class="intro"><span class="dropcap">E</span>l Chepe was, until recently, the only passenger train in Mexico, and it remains its most scenic: from end-to-end, the Chihuahua-Pacifico ("Che-Pe") railway covers 668 kilometres over a scheduled 15.5 hours.</p>
 
