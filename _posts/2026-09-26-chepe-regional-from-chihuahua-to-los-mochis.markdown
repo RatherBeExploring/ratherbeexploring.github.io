@@ -13,36 +13,36 @@ El Chepe is well-documented online, but most tourists (and most reviews) focus o
 
 ## Buying Tickets
 
-This was the most stressful part of the experience but I needn't have worried.  Unlike the Chepe Express, tickets cannot be booked online: you must call 800-122-4373, submit an online form (<a href="https://chepe.mx/contactanos/" target="_blank" rel="noopener noreferrer">here</a>), or purchase tickets in person.  I opted to buy my tickets the day before departure in Chihuahua, which was easy: staff spoke English, and you can buy tickets between any two stations from any station.  I took this journey in two parts, and purchased both my Chihuahua-Posada Barrancas and my Posada-Los Mochis tickets at the same time in Chihuahua.  This is highly recommended as the Copper Canyon is well worth exploring over a few days, and does not cost any extra.
+This was the most stressful part of the experience but I needn't have worried.  Unlike the Chepe Express, tickets cannot be booked directly online: you must call 800-122-4373, submit an online form (<a href="https://chepe.mx/contactanos/" target="_blank" rel="noopener noreferrer">here</a>), or purchase tickets in person.  I opted to buy my tickets the day before departure in Chihuahua, which was easy: staff spoke English, and you can buy tickets between any two stations from any station.  I took this journey in two parts, and purchased both my Chihuahua-Posada Barrancas and my Posada-Los Mochis tickets at the same time in Chihuahua.  This is highly recommended as the Copper Canyon is well worth exploring over a few days, and stopping along the way does not cost any extra.
 
 <div class="centered-block">
 <img src="/assets/img/chepe1.jpg" alt="El Chepe station in Chihuahua City.">
 <p>Chihuahua station, in all its...existence.</p>
 </div>
 
-Note however that there is a minimum fare of $695 MXN, regardless of actual distance travelled: travelling from Divisadero to San Rafael, for example, is only a journey of roughly 20 minutes, but is priced as a journey of 120 km.  This means once you are in the Copper Canyon, it is far more affordable to get around by bus, or even taxi.
+Note however that there is a minimum fare of $695 MXN, regardless of actual distance travelled: travelling from Divisadero to San Rafael, for example, is only a journey of roughly 20 minutes, but is priced as a journey of 120 km.  This means that once you are in the Copper Canyon it is far more affordable to get around by bus, or even taxi.
 
-Previously, purchasing tickets on the Regional train as a foreigner was discouraged: you could only do this with an accompanying ticket on the Express, and the Express journey must be longer than the Regional.  This was another reason why I opted not to purchase my tickets in advance: if this harsh ticketing policy was still in place, I would have taken the bus instead.  Thankfully this changed on March 1, 2026: from the date only residents of Chihuahua and Sinaloa states may purchase *económica* fares.  Foreigners and tourists from other Mexican states must purchase *turista* fares, which are twice the price.  This dedicated option for tourists on the Chepe Regional has removed the friction that came with buying a ticket on a train that Ferromex really did not want to sell you, as it eats a loss on every subsidised ticket sold.  Clearly they would still prefer you pay even more to travel on Chepe Express, but tourists are no longer actively discouraged from travelling on the local service.
+Previously, purchasing tickets on the Regional train as a foreigner was discouraged: you could only do this with an accompanying ticket on the Express, and only when the Express journey was longer than the Regional.  This was another reason why I opted not to purchase my tickets in advance: if this harsh ticketing policy was still in place, I would have taken the bus instead.  Thankfully this changed on March 1, 2026: from that date only residents of Chihuahua and Sinaloa states may purchase *económica* fares.  Foreigners and tourists from other Mexican states must purchase *turista* fares, which are at least twice the price.  This dedicated option for tourists on the Chepe Regional has removed the friction that came with buying a ticket that Ferromex really did not want to sell to tourists, as it eats a loss on every subsidised ticket sold.  Clearly they would still prefer you pay even more to travel on Chepe Express, but tourists are no longer actively discouraged from travelling on the local service.
 
 <div class="centered-block">
 <img src="/assets/img/chepe2.jpg" alt="Fares across all station combinations between Chihuahua and Los Mochis.">
 <p>Fares for regional tourist tickets, which all foreigners must purchase.</p>
 </div>
 
-The official Chepe website does still say that tourists must take the Express between stations where it is available.  That doesn't seem to be the case any longer, but if you do run into this issue it is easy enough to get around: instead of Divisadero, which is the main gateway to the Copper Canyon, get off one stop later at Posada Barrancas.  This is only served by the Regional, and is also closer to most hotels.  I was the only passenger who got on or off at this stop, which was also neat…the train barely came to a stop before I was left alone on the platform.  You don't get that in Divisadero.
+The official Chepe website does still say that tourists must take the Express between stations where it is available.  That doesn't seem to be enforced any longer, but if you do run into this issue it is easy enough to get around: instead of Divisadero, which is the main gateway to the Copper Canyon, get off one stop later at Posada Barrancas.  This is only served by the Regional, and is also closer to most hotels.  I was the only passenger who got on or off at this stop, which was also neat…the train barely came to a stop before I was left alone on the platform.  You don't get that in Divisadero.
 
-Despite paying double what a local resident pays, travelling on Chepe Regional is still roughly 1,000 pesos cheaper than the Express between Creel and Los Mochis, in its cheapest ticket category—which has identical seats as the Regional carriages.  You get nothing for your added money though: as of January 13, 2025 no fares on Chepe Regional include any sort of food or drink, and all seats across all carriages are identical.  Tourist carriages do come with assigned seats, but once on board most people, myself included, spread ourselves out in any open seats…making this "perk" more of an inconvenience.
+Despite paying double what a local resident pays, travelling on Chepe Regional is still roughly 1,000 pesos cheaper than the Express between Creel and Los Mochis, in its cheapest ticket category—which has identical seats as the Regional carriages.  You get nothing for your added money though: as of January 13, 2025 no fares on Chepe Regional include any sort of food or drink, and all seats across all carriages are identical (other than some carriages in both classes having seatback pockets, and some not).  Tourist carriages do come with assigned seats, but once on board most people, myself included, spread ourselves out in any open seats…making this "perk" more of an inconvenience.
 
 <div class="centered-block">
 <img src="/assets/img/chepe3.jpg" alt="Schedule in both directions for the Chepe Regional, along with much cheaper local fares.">
 <p>The low local fares subsidised by your inflated ticket price.</p>
 </div>
 
-On that note, I had no difficulty whatsoever purchasing a ticket less than 24 hours before departure.  You can also buy tickets the morning of departure: Chihuahua station opens at 05:00 for an 06:00 service.  But the price is identical, and you take the risk of the train selling out.  If you do find yourself unable to purchase a ticket, there is also a daily 06:45 bus with Noroeste (not to be confused with the larger Noreste).
+On that note, I had no difficulty whatsoever purchasing a ticket less than 24 hours before departure.  You can also buy tickets the morning of departure: Chihuahua station opens at 05:00 for an 06:00 service.  But the price is identical, and you take the risk of the train selling out.  If you do find yourself unable to purchase a ticket, there is also a daily 06:45 bus with Noroeste (not to be confused with the larger Noreste) from Chihuahua to Divisadero.
 
 ## Departure from Chihuahua
 
-I arrived at Chihuahua station around 05:20, which was too early.  Finding a Didi or Uber at that hour wasn't an issue, and the drive from the city centre is at most ten minutes.  Unfortunately the city's bus network doesn't operate that early, but the ride was only the equivalent of around $2.50 USD.
+I arrived at Chihuahua station around 05:20, which was too early.  Finding a Didi or Uber at that hour wasn't an issue, and the drive from the city centre is at most ten minutes.  Unfortunately the city's bus network doesn't operate that early, but the rideshare was only the equivalent of around $2.50 USD.
 
 <div class="centered-block">
 <img src="/assets/img/chepe4.jpg" alt="Decaying rail car sitting abandonned on disused tracks at Chihuahua station.">
@@ -51,7 +51,7 @@ I arrived at Chihuahua station around 05:20, which was too early.  Finding a Did
 
 There was already a lengthy queue when I arrived.  If you already have your ticket, join this line; if not, walk into the station where there will be another, hopefully shorter line leading to the ticket window.  The station has free toilets.  Surprisingly there were no vendors outside the station, so purchase whatever you want to bring with you in advance.
 
-<blockquote>There are no vendors at Chihuahua station, or indeed at any stations en route other than Divisadero.  Buy everything you need in advance.</blockquote>
+<blockquote>There are no vendors at Chihuahua station, or indeed at any station en route other than Divisadero.  Buy everything you need in advance.</blockquote>
 
 Boarding started at 05:30 and moved quickly.  My train had ten carriages: three *turista* class, one refreshment car, and six *económica* wagons (which in turn were split between full-fare and heavily-subsidised social fare).  *Turista* carriages are directly behind the locomotive, which can get quite loud as the train blows its horn frequently through populated areas.  I was in car one on both of my trips, and on both trips one of the three tourist-class cars was reserved for a dozen or so staff.  It was a very light load.
 
@@ -84,13 +84,13 @@ Overhead racks take smaller bags, up to a rollaboard carry-on.  Any checked bags
 <p>Three tourist-class carriages made the trip, all mostly empty.</p>
 </div>
 
-Seats have generous legroom, around 36 inches, and also recline about five degrees.  There is quite a lot of padding, which was comfortable on joints but, even with strong air conditioning, traps a lot of body heat.  There are no amenities at all: no reading light, air vent, table, or charging options.  There is also no WiFi, and cell service is sporadic along the route.
+Seats have generous legroom, around 36 inches, and also recline about five degrees.  There is quite a lot of padding, which was comfortable on joints but, even with strong air conditioning, traps a lot of body heat which got uncomfortable after a while.  There are no amenities at all: no reading light, air vent, table, or charging options.  There is also no WiFi, and cell service is sporadic along the route.
 
 The main attraction is outside.  Blinds can be raised or lowered using a knob next to each seat pair; this is quite a good solution actually, since lowering the blinds blocks 75% of the sunlight while still letting you see 75% of the scenery.  Windows were relatively clean: not spotless, but you could clearly see what was outside.
 
 <div class="centered-block">
 <img src="/assets/img/chepe8.jpg" alt="Interior view of an economy-class carriage, showing red seats arranged 2-2, air conditioning, and overhead luggage racks.">
-<p>Económica-class carriage. Can you spot the differences? Neither can I.</p>
+<p>Económica-class carriage. Can you spot the difference? Neither can I.</p>
 </div>
 
 For the best photos and views though, head to the vestibule between carriages.  This is a huge improvement over the Express, which is geared towards safety-obsessed tourists: on the Regional train, the top half of the bifurcated door is left open.  There are signs saying not to stand there, but these are ignored (as are the no-smoking signs).  Leaning outside as the train slowly wound its way through the Copper Canyon, watching the scenery unfold, and feeling the cool air of Divisadero give way to the brutal heat of Sinaloa…no bus ride can compete with that.  I spent hours of the trip here, and not once did I wish I had paid five times as much for an enclosed viewing car.
@@ -100,11 +100,11 @@ For the best photos and views though, head to the vestibule between carriages.  
 <p>You can ignore this.</p>
 </div>
 
-While the route is kept clear of debris, there are frequent trees that get within a few inches of the train.  Pay attention, and if you are going to lean out, do so facing forward.
+While the route is kept clear of debris, there are frequent trees that get within a few inches of the train.  Pay attention, and if you are going to lean out do so facing forward.
 
 <div class="centered-block">
 <img src="/assets/img/chepe9.jpg" alt="View showing a single locomotive pulling El Chepe through low-lying vegetation around a bend.">
-<p>Don't be scared: head to the vestibule for fresh air (other than the occasional cigarette) and the best views.</p>
+<p>Don't be scared: head to the vestibule for fresh air (other than the occasional whiff of cigarette smoke) and the best views.</p>
 </div>
 
 Unfortunately there is only one fresh air break across the entire trip: for 15 minutes at Divisadero, which is just enough time to walk down to the viewpoint (2-4 minutes, depending on your carriage), take some photos, buy a souvenir or some food, and walk back.  At all other stops passengers must remain on board, which is rather annoying: the train sounds its horn when it is ready to depart, any passengers who miss that deserve to be left behind.
@@ -127,7 +127,7 @@ It's not good.  Snack and drink options are limited and over-priced: you can and
 
 <div class="centered-block">
 <img src="/assets/img/chepe13.jpg" alt="Food and drink menu aboard the Chepe Regional.">
-<p>Nothing looked good, and everything looked expensive.</p>
+<p>Nothing looked good, and everything was priced for a captive audience.</p>
 </div>
 
 If you do choose to buy food on board, hot options sell out quickly so plan to eat early.  A trolley also passes through the train somewhat regularly, selling snacks and drinks.  The only "meal" available from this trolley was instant noodles.
@@ -136,7 +136,7 @@ If you do choose to buy food on board, hot options sell out quickly so plan to e
 
 <div class="centered-block">
 <img src="/assets/img/chepe14.jpg" alt="Posada Barrancas station, with two wooden sheds on either side of a single track.">
-<p>Posada Barrancas station is an immediate signal that you have arrived in a quieter part of México.</p>
+<p>Posada Barrancas station is an immediate reminder that you have arrived in a quieter part of México.</p>
 </div>
 
 While you can book a single ticket all the way from Chihuahua to Los Mochis, this would be an exhausting ordeal.  I opted to break this up into two chunks, stopping halfway at Posada Barrancas station (located in the town of Areponapuchi).  I travelled in the off season, and noticed this as soon as I went for a walk around town: nearly everything was closed, but I was still able to find somewhere to eat for each of my four days there.
@@ -153,7 +153,7 @@ What do you do in the Copper Canyon?  It depends on your travel style and budget
 <p>A different perspective of a section of track along which I'd travel in a few days.</p>
 </div>
 
-The town of San Rafael is well worth a visit.  I was extremely fortunate, perhaps as fortunate as I have ever been whilst travelling, to participate in a full day of ceremonies and celebrations with the local Raràmuri people, thanks to two chance encounters with a friendly priest on two consecutive days.  This isn't the sort of thing you can book as a tour…and it's also the sort of thing you miss passing by on a train.
+The town of San Rafael is well worth a visit.  I was extremely fortunate, perhaps as fortunate as I have ever been whilst travelling, to participate in a full day of ceremonies and celebrations with the local Raràmuri people, thanks to two chance encounters with a friendly priest on two consecutive days.  This isn't the sort of thing you can book as a tour…and it's also the sort of impromptu experience you miss passing by on a train.
 
 ## Top Tips
 
