@@ -10,17 +10,17 @@ image: floresfeatured.jpg
 
 ## Introduction
 
-Belize City is the primary gateway for Belize's beautiful cayes, as well as home to the country's only airport with commercial international service.  While the city itself has little to offer for an extended stay, most visitors will find themselves passing through to get in and out of Belize—making it very well connected.  This includes three different options for getting to Flores, a popular backpacker hub with Flores Island crammed full of hostels…but also worth visiting for non-backpackers thanks to the nearby Tikal National Park.  Travellers making this journey can choose between local busses, tourist shuttles, or the direct Fuente del Norte service to get between Belize City and Flores; here's why I chose the latter:
+Belize City is the primary gateway for Belize's beautiful cayes, as well as home to the country's only airport with commercial international service.  While the city itself has little to offer for an extended stay, most visitors will find themselves passing through to get in and out of Belize—making it very well connected.  This includes three different options for getting to Flores, a popular backpacker hub with Flores Island crammed full of hostels…but also worth visiting for non-backpackers thanks to the nearby Tikal National Park.  Travellers making this journey overland can choose between local busses, tourist shuttles, or the direct Fuente del Norte service to get between Belize City and Flores; here's why I chose the latter:
 
 ## Buying Tickets
 
-The cheapest and easiest way is to <a href="https://transportesfuentedelnorte.com/en/" target="_blank" rel="noopener noreferrer">buy online direct from Fuente del Norte</a>.  The site is a bit finicky: you have to delete some auto-populated text that comes up in the optional tax invoice fields, but otherwise it's straightforward.  International cards are accepted with no fee, though note that it is about $2 cheaper to pay in Guatemalan quetzals over US dollars (if you have a no forex card): I paid 157.50 GTQ (equivalent to about $20.50 USD on the same day), but would have been charged $22.50 had I paid in US dollars.
+The cheapest and easiest way is to <a href="https://transportesfuentedelnorte.com/en/" target="_blank" rel="noopener noreferrer">buy online direct from Fuente del Norte</a>.  The site is a bit finicky: you have to delete some auto-populated text that comes up in the optional tax invoice fields, but otherwise it's straightforward.  International cards are accepted with no fee, though note that it is about $2 cheaper to pay in Guatemalan quetzals over US dollars (if you have a no-forex card): I paid 157.50 GTQ (equivalent to about $20.50 USD on the same day), but would have been charged $22.50 had I paid in US dollars.
 
 <blockquote>Buying direct in local currency will get you the best price.</blockquote>
 
-You get an email with your PDF ticket, this is all you need to board; no need to print it off.  You can also buy through third-parties at the ferry terminal, though you will pay more.
+You get an email with your PDF ticket, which is all you need to board; no need to print it off.  You can also buy through third-parties at the ferry terminal, though you will pay more.
 
-For reference, I was quoted $30 BZD (fixed 2:1, so $15 USD) for the local bus that only goes as far as the border, or $40 BZD ($20 USD) for an express bus—again just as far as the border.  So for the same price, you get a reasonably-express service all the way to Flores.  There are no nonstop flights, with the most direct option being via Guatemala City taking three hours (not including time spent getting to/from airports) and costing around $400 USD.  This is not a practical option unless you have an irrational fear of overland travel…in which case you're probably not reading this article to begin with.
+For reference, I was quoted $30 BZD (fixed 2:1, so $15 USD) for the local bus that only goes as far as the border, or $40 BZD ($20 USD) for an express bus—again just as far as the border.  So for the same price, you get a reasonably-express service all the way to Flores.  There are no nonstop flights, with the most direct option being via Guatemala City taking three hours (not including time spent getting to/from airports) and costing around $400 USD.  This is not a reasonable option unless you have an irrational fear of overland travel…in which case you're probably not reading this article to begin with.
 
 ## Leaving Belize City
 
@@ -30,7 +30,7 @@ The address on your ticket will be **111 North Front Street**, which is actually
 <p>It's a very welcoming parking lot.</p>
 </div>
 
-I arrived at 11:50 for the 12:00 departure, and our bus from Flores arrived at almost the exact same time.  It is an unmarked white bus with Belizean plates, but the Spanish-speaking driver and assistant give a good hint as to its destination.  Large bags go under the bus: very informal, they weren't weighed and you don't get a baggage ticket.  You do technically have a limit of 35 pounds for baggage, though that wasn't enforced…still, if you show up carrying all your worldly possessions, you may be charged 3 GTQ per pound.
+I arrived at 11:50 for the 12:00 departure, and our bus from Flores arrived at almost the exact same time.  It is an unmarked white bus with Belizean plates, but the Spanish-speaking driver and assistant give a good hint as to its destination.  Large bags go under the bus: very informal, they weren't weighed and you don't get a baggage ticket.  Each passenger is theoretically limited to 35 pounds of baggage, though that wasn't enforced…still, if you show up carrying all your worldly possessions, you may be charged 3 GTQ per pound above this limit.
 
 <div class="centered-block">
 <img src="/assets/img/flores2.jpg" alt="White coach bus waiting in a parking lot.">
@@ -48,7 +48,7 @@ Seats are assigned but this doesn't matter, sit wherever.  The faux leather seat
 <p>Not exactly the last word in luxury, but very good for Central America.</p>
 </div>
 
-Unusually for Central American busses, you don't get curtains to block out the sun.  Instead windows are heavily tinted.  This works somewhat, though definitely try and sit on the side facing away from the sun.  Also try and sit away from the air conditioning unit located roughly halfway down the bus: this leaks, a lot.  The A/C stopped working/was turned off intermittently for the final hour of the journey.  Windows also open.
+Unusually for Central American busses, you don't get curtains to block out the sun.  Instead windows are heavily tinted.  This works somewhat, though definitely try and sit on the side facing away from the sun.  Also try and sit away from the air conditioning unit located roughly halfway down the bus: this leaks, a lot.  The A/C stopped working/was turned off intermittently for the final hour of the journey, which is when I discovered that windows also open.
 
 <div class="centered-block">
 <img src="/assets/img/flores4.jpg" alt="Reclined seat pair.">
@@ -68,7 +68,7 @@ Other than 20 minutes spent puttering about San Ignacio picking up and dropping 
 
 ## Border Crossing
 
-Take your hand bags with you, but large bags stay under the bus.  Passengers walk across the border, which is a three-step process: pay your $40 BZD/$20 USD Belizean exit fee (cash or card), get stamped out of Belize, then walk about 50 metres and get stamped into Guatemala.  This was the easiest land border crossing I have ever had in the Americas: there were no lines, no unnecessary questions, and both sides had clean facilities.  Indeed it was so seamless I inadvertently waked right into Guatemala and had to turn back; it reminded me of <a href="https://ratherbeexploring.github.io/blog/crossing-by-foot-from-foz-do-iguacu-to-ciudad-del-este/" target="_blank" rel="noopener noreferrer">crossing from Brazil into Paraguay</a>, where most people don't need a passport stamp so you have to go out of your way to get one.  Make sure you are both stamped out of Belize and into Guatemala though, as failing to do so will lead to fines when you cross the next border.
+Take your hand bags with you, but large bags stay under the bus.  Passengers walk across the border, which is a three-step process: pay your $40 BZD/$20 USD Belizean exit fee (cash or card), get stamped out of Belize, then walk about 50 metres and get stamped into Guatemala.  This was the easiest land border crossing I have ever had in the Americas: there were no lines, no unnecessary questions, and both sides had clean facilities.  Indeed it was so seamless I inadvertently waked right into Guatemala and had to turn back.  It reminded me of <a href="https://ratherbeexploring.github.io/blog/crossing-by-foot-from-foz-do-iguacu-to-ciudad-del-este/" target="_blank" rel="noopener noreferrer">crossing from Brazil into Paraguay</a>, where most people don't need a passport stamp so you have to go out of your way to get one.  Make sure you are both stamped out of Belize and into Guatemala though, as failing to do so will likely lead to fines when you cross the next border.
 
 <div class="centered-block">
 <img src="/assets/img/flores6.jpg" alt="Blue-and-yellow building to enter and exit Belize, with overcast sky above.">
@@ -82,7 +82,7 @@ You are protected from the elements for the full process, either by covered walk
 <p>You can just walk right through this building, but make sure to get stamped into or out of Guatemala first.</p>
 </div>
 
-Currency exchangers will swarm the bus as soon as it stops.  Walk past these ones and swap your money on the Guatemalan side: after entering the country there will be around a dozen men either wearing chest-strap bags or just holding huge wads of cash.  They aren't pushy and give good rates: 7.5:1 for US dollars, which was identical to the rate offered by banks in Flores.  Exchanging at the border is quicker and safer: Guatemalan banks want a scan of your passport and detailed personal information, which I'm sure is stored on a system with cutting-edge security.  Informal currency exchangers just want your cash.  ATMs in Guatemala charge high fees (around $8 USD) and are often empty.
+Currency exchangers will swarm the bus as soon as it stops.  Walk past these ones and swap your money on the Guatemalan side: after entering the country there will be around a dozen men either wearing chest-strap bags or just holding huge wads of cash.  They aren't pushy and give good rates: 7.5:1 for US dollars, which was identical to the rate offered by banks in both Flores and Guatemala City.  Exchanging at the border is quicker and safer: Guatemalan banks want a scan of your passport and detailed personal information, which I'm sure is stored on a system with cutting-edge security.  Informal currency exchangers just want your cash.  ATMs in Guatemala charge high fees (around $8 USD) and are often empty.
 
 <div class="centered-block">
 <img src="/assets/img/flores8.jpg" alt="Toyota pickup truck with washing machine in the bed stopped at the Guatemalan side of the border.">
